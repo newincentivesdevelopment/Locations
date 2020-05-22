@@ -3,9 +3,7 @@
     <Document>
         <Style id="randomColorIcon">
             <IconStyle>
-                <color>ff00ff00</color>
-                <colorMode>random</colorMode>
-                <scale>0.2</scale>
+                <scale>1</scale>
                 <Icon>
                     <href>https://raw.githubusercontent.com/newincentivesdevelopment/Locations/master/hospital.png</href>
                 </Icon>
