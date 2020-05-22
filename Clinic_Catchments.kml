@@ -7,7 +7,7 @@
                 <colorMode>random</colorMode>
                 <scale>0.2</scale>
                 <Icon>
-                    <href>https://image.flaticon.com/icons/svg/459/459225.svg</href>
+                    <href>https://raw.githubusercontent.com/newincentivesdevelopment/Locations/master/hospital.png</href>
                 </Icon>
             </IconStyle>
         </Style>
@@ -18,7 +18,6 @@
             <Point>
                 <coordinates>8.45602,12.964933</coordinates>
             </Point>
-
         </Placemark>
     </Document>
 
