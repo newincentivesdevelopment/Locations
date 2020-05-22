@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
     <Document>
-        <Style id="randomColorIcon">
+        <Style id="hospitalIcon">
             <IconStyle>
                 <scale>1</scale>
                 <Icon>
@@ -9,13 +9,25 @@
                 </Icon>
             </IconStyle>
         </Style>
+        <Style id="catchmentArea">
+            <PolyStyle>
+                <color>50788CF0</color>
+                <fill>0.5</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
         <Placemark>
             <name>1401</name>
-            <styleUrl>#randomColorIcon</styleUrl>
+            <styleUrl>#hospitalIcon</styleUrl>
             <description>Barage HC</description>
             <Point>
                 <coordinates>8.45602,12.964933</coordinates>
             </Point>
+        </Placemark>
+        <Placemark>
+            <name>1401 - Catchment Area</name>
+            <description>Barage HC</description>
+            <styleUrl>#catchmentArea</styleUrl>
             <MultiGeometry>
                 <Polygon>
                     <outerBoundaryIs>
