@@ -1,11 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
-    <Placemark>
-        <name>1401</name>
-        <description>Barage HC</description>
-        <Point>
-            <coordinates>8.45602,12.964933</coordinates>
-        </Point>
-        
-    </Placemark>
+    <Document>
+        <Style id="randomColorIcon">
+            <IconStyle>
+                <color>ff00ff00</color>
+                <colorMode>random</colorMode>
+                <scale>0.2</scale>
+                <Icon>
+                    <href>https://image.flaticon.com/icons/svg/459/459225.svg</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Placemark>
+            <name>1401</name>
+            <styleUrl>#randomColorIcon</styleUrl>
+            <description>Barage HC</description>
+            <Point>
+                <coordinates>8.45602,12.964933</coordinates>
+            </Point>
+
+        </Placemark>
+    </Document>
+
 </kml>
