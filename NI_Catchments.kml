@@ -1,0 +1,2177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+    <Document>
+        <Style id="hospitalIcon">
+            <IconStyle>
+                <scale>1</scale>
+                <Icon>
+                    <href>https://raw.githubusercontent.com/newincentivesdevelopment/Locations/master/hospital.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="catchmentArea">
+            <PolyStyle>
+                <color>50788CF0</color>
+                <fill>1</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Placemark>
+            <name>1401</name>
+            <styleUrl>#hospitalIcon</styleUrl>
+            <description>Barage HC</description>
+            <Point>
+                <coordinates>8.45602,12.964933</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>1401 Catchment Area</name>
+            <description>Barage HC</description>
+            <styleUrl>#catchmentArea</styleUrl>
+            <MultiGeometry>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <coordinates>8.45167900486337,12.9670190279125,0 8.48081618939761,12.9499907215576,0 8.48468913819196,12.9605238319483,0 8.48185197802865,12.9719780836681,0 8.48054598366777,12.9772003452351,0 8.47820503203873,12.9783711727457,0 8.46973775447423,12.9829052114955,0 8.46672045715771,12.9732507457527,0 8.45167900486337,12.9670190279125,0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+        <Placemark>
+            <name>1402</name>
+            <styleUrl>#hospitalIcon</styleUrl>
+            <description>MPHC Zango</description>
+            <Point>
+                <coordinates>8.465942,13.054157</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>1402 Catchment Area</name>
+            <description>MPHC Zango</description>
+            <styleUrl>#catchmentArea</styleUrl>
+            <MultiGeometry>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <coordinates>8.4783608951799,13.0520982297625,0 8.47689874965905,13.0517843850697,0 8.47709700667882,13.0510359845787,0 8.47875740921945,13.0503841500467,0 8.4789804483667,13.0490563336459,0 8.48026911899524,13.0485734895501,0 8.4797734764458,13.0483320671485,0 8.47984782282822,13.047873363936,0 8.48180561089851,13.046304109668,0 8.48304471727211,13.0458454026931,0 8.48465555555779,13.0459902576192,0 8.48472990194021,13.0453142672381,0 8.48621682958853,13.0455315500621,0 8.48755506447202,13.0449279861906,0 8.49424623888947,13.0463765370073,0 8.49380016059497,13.0487424850909,0 8.49293278613345,13.0485493473205,0 8.49243714358401,13.0503841500467,0 8.49137151210271,13.0509877005983,0 8.49099978019063,13.052556925135,0 8.49461797080155,13.0540778563312,0 8.49427102101694,13.0565402965155,0 8.49258583634884,13.0566127208553,0 8.49184237252468,13.0565885794111,0 8.48604335469622,13.0548745308409,0 8.48091345430952,13.0540537146393,0 8.47870784496451,13.0538847227299,0 8.47803872752276,13.053667447248,0 8.47803872752276,13.053643305516,0 8.4783608951799,13.0520982297625,0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+        <Placemark>
+            <name>1403</name>
+            <styleUrl>#hospitalIcon</styleUrl>
+            <description>MCHC Kawarin Kudi</description>
+            <Point>
+                <coordinates>8.693803,12.89025</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>1403 Catchment Area</name>
+            <description>MCHC Kawarin Kudi</description>
+            <styleUrl>#catchmentArea</styleUrl>
+            <MultiGeometry>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <coordinates>8.67073004504941,12.9123938638126,0 8.67201352226614,12.9035268153848,0 8.6879556603266,12.8821041342666,0 8.70211894399896,12.8886013705854,0 8.71090063021871,12.8921133200297,0 8.7108555959304,12.8925084112591,0 8.70945953299291,12.9122182817477,0 8.67073004504941,12.9123938638126,0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+        <Placemark>
+            <name>1404</name>
+            <styleUrl>#hospitalIcon</styleUrl>
+            <description>MPHC Garni</description>
+            <Point>
+                <coordinates>8.51713,12.866208</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>1404 Catchment Area</name>
+            <description>MPHC Garni</description>
+            <styleUrl>#catchmentArea</styleUrl>
+            <MultiGeometry>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <coordinates>8.49145217584237,12.8677156228499,0 8.48854099992628,12.8629909275107,0 8.49244515131992,12.858167354998,0 8.49980622933456,12.8565174582016,0 8.50044080502548,12.851250479967,0 8.50177341397641,12.8448412654887,0 8.50488283486191,12.8448412654887,0 8.50297910778915,12.8362110360923,0 8.5325904322304,12.8471464946559,0 8.55320728461977,12.8517280174091,0 8.55311058737163,12.8660360935654,0 8.54511493366607,12.8694628022963,0 8.53400985907501,12.8702877506945,0 8.52664878106037,12.8759354743437,0 8.51605136702205,12.8744124926855,0 8.50863288616684,12.873394802096,0 8.49145217584237,12.8677156228499,0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+        <Placemark>
+            <name>1405</name>
+            <styleUrl>#hospitalIcon</styleUrl>
+            <description>Bulungudu HC</description>
+            <Point>
+                <coordinates>8.564017,13.021488</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>1405 Catchment Area</name>
+            <description>Bulungudu HC</description>
+            <styleUrl>#catchmentArea</styleUrl>
+            <MultiGeometry>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <coordinates>8.53277654801412,13.0244725990352,0 8.53178579367138,13.0125381126742,0 8.53349709662703,13.0102564542624,0 8.53457791954638,13.008150289402,0 8.54507090872177,13.0079747748563,0 8.55052005760684,13.0105197236122,0 8.55394266351813,13.0114411641353,0 8.55754540658264,13.0135911787054,0 8.56321972690924,13.0177595211786,0 8.56655226424391,13.0237705863381,0 8.56709267570359,13.0311416204099,0 8.56601185278424,13.0394776444841,0 8.55295190917539,13.0477256444845,0 8.53277654801412,13.0244725990352,0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+        <Placemark>
+            <name>1406</name>
+            <styleUrl>#hospitalIcon</styleUrl>
+            <description>Gora PHC</description>
+            <Point>
+                <coordinates>7.261348,12.35837</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>1406 Catchment Area</name>
+            <description>Gora PHC</description>
+            <styleUrl>#catchmentArea</styleUrl>
+            <MultiGeometry>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <coordinates>7.24706716349436,12.3562844724774,0 7.25104796286097,12.34840345363,0 7.26550116557875,12.3492084734918,0 7.27738741046812,12.3570307607146,0 7.29153571990053,12.3610366825503,0 7.29502153526794,12.3648422514422,0 7.29221921310983,12.3691151048634,0 7.26812207797386,12.367383395617,0 7.26166706665434,12.363440206191,0 7.24706716349436,12.3562844724774,0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+        <Placemark>
+            <name>1407</name>
+            <styleUrl>#hospitalIcon</styleUrl>
+            <description>Sabuwa CHC</description>
+            <Point>
+                <coordinates>7.132283,11.173327</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>1407 Catchment Area</name>
+            <description>Sabuwa CHC</description>
+            <styleUrl>#catchmentArea</styleUrl>
+            <MultiGeometry>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <coordinates>7.10778532658336,11.2115115875177,0 7.10512289450377,11.1789266527815,0 7.11311019074255,11.1666130707527,0 7.11970287970153,11.1539258034846,0 7.12908478322009,11.1381281377034,0 7.14379155089783,11.1309131703522,0 7.15215919457654,11.1290472014214,0 7.16103396817518,11.1312863627036,0 7.15786440617567,11.1454673175173,0 7.15913223097547,11.1613889690036,0 7.16255535793495,11.1742002891678,0 7.15925901345545,11.1907422246625,0 7.16078040321522,11.2177296694846,0 7.15773762369569,11.2239476176187,0 7.14838741579712,11.2182582002814,0 7.14734146033728,11.2169524165562,0 7.14163624873816,11.2172322278513,0 7.11539227538219,11.212506489623,0 7.11539227538219,11.2126308521454,0 7.10778532658336,11.2115115875177,0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+        <Placemark>
+            <name>1408</name>
+            <styleUrl>#hospitalIcon</styleUrl>
+            <description>Tuge PHC</description>
+            <Point>
+                <coordinates>7.604833,11.982767</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>1408 Catchment Area</name>
+            <description>Tuge PHC</description>
+            <styleUrl>#catchmentArea</styleUrl>
+            <MultiGeometry>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <coordinates>7.61377472777821,12.0106863013495,0 7.6000390417078,12.0083292742812,0 7.58473700547148,11.9831077943967,0 7.56991692313236,11.9704961704017,0 7.58039942039662,11.9592984408494,0 7.58931556749495,11.9570588392981,0 7.59461706036422,11.9574124618283,0 7.59835220306758,11.959887806597,0 7.60184636882233,11.9687281386762,0 7.60979860812624,11.9813398452191,0 7.61485912404692,11.9946581106796,0 7.61377472777821,12.0105684504859,0 7.61377472777821,12.0106863013495,0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+        <Placemark>
+            <name>1409</name>
+            <styleUrl>#hospitalIcon</styleUrl>
+            <description>Ginchawa Clinic</description>
+            <Point>
+                <coordinates>7.6490898,12.226143</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>1409 Catchment Area</name>
+            <description>Ginchawa Clinic</description>
+            <styleUrl>#catchmentArea</styleUrl>
+            <MultiGeometry>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <coordinates>7.63264749074787,12.2425575234299,0 7.6353281527527,12.2347565233122,0 7.63514944195238,12.2302737548563,0 7.63681740942205,12.2256162525582,0 7.63984060046083,12.2241898760694,0 7.65123341398135,12.2188045077341,0 7.65373536518586,12.2259073488555,0 7.66189649173389,12.2380166707865,0 7.65552247318907,12.2443621995926,0 7.64831447090942,12.2463997223695,0 7.63890236875914,12.2457011449033,0 7.63264749074787,12.2425575234299,0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+        <Placemark>
+            <name>1410</name>
+            <styleUrl>#hospitalIcon</styleUrl>
+            <description>Kwatta MCH</description>
+            <Point>
+                <coordinates>7.83793,12.870187</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>1410 Catchment Area</name>
+            <description>Kwatta MCH</description>
+            <styleUrl>#catchmentArea</styleUrl>
+            <MultiGeometry>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <coordinates>7.79903719419594,12.8773451467574,0 7.82518854130972,12.8690987816805,0 7.82572467371068,12.8646851227614,0 7.8293584599839,12.8654400962403,0 7.83031158425228,12.8671242596591,0 7.83579204879548,12.8685180415231,0 7.83722173519806,12.869969889395,0 7.83996196746966,12.8689245597745,0 7.84782524268383,12.8650916472247,0 7.86152640404184,12.8716540223958,0 7.86176468510893,12.876415992422,0 7.85056547495543,12.8841394831257,0 7.84961235068705,12.8912820482907,0 7.79903719419594,12.8773451467574,0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+        <Placemark>
+            <name>1411</name>
+            <styleUrl>#hospitalIcon</styleUrl>
+            <description>Gabi HC</description>
+            <Point>
+                <coordinates>8.04642,12.754323</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>1411 Catchment Area</name>
+            <description>Gabi HC</description>
+            <styleUrl>#catchmentArea</styleUrl>
+            <MultiGeometry>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <coordinates>8.06726050605421,12.7679101601415,0 8.05448872777823,12.7847134157137,0 8.04713893084582,12.7849484183558,0 8.03292129087821,12.7729630048207,0 8.02364367835697,12.7637973050409,0 8.02207732819105,12.7486379188804,0 8.02376416683128,12.738531157197,0 8.0187036509106,12.7371208793308,0 8.01942658175641,12.7306570053925,0 8.02364367835697,12.7272487146106,0 8.02725833258603,12.7283064649267,0 8.03039103291787,12.7334776251943,0 8.03364422172402,12.7337126754282,0 8.038825226119,12.7387662027451,0 8.0596697321732,12.7484028824908,0 8.06726050605421,12.7679101601415,0 8.06726050605421,12.7679101601415,0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+        <Placemark>
+            <name>1412</name>
+            <styleUrl>#hospitalIcon</styleUrl>
+            <description>Sabon Layi CHF</description>
+            <Point>
+                <coordinates>7.530767,11.827973</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>1412 Catchment Area</name>
+            <description>Sabon Layi CHF</description>
+            <styleUrl>#catchmentArea</styleUrl>
+            <MultiGeometry>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <coordinates>7.53025078513339,11.8712825839447,0 7.52770682735108,11.8695322780707,0 7.52048126138245,11.866993524737,0 7.51803888044472,11.8339915969442,0 7.52054083164923,11.8154056737107,0 7.54228397902173,11.8202904355862,0 7.56587380466423,11.8233285191916,0 7.5647843789616,11.8358221212842,0 7.56311878582285,11.8452363433728,0 7.5556277187791,11.8597259521905,0 7.54502421129333,11.870925162344,0 7.54019901968464,11.8735462540821,0 7.53793534954723,11.8681849300724,0 7.53025078513339,11.8712825839447,0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+        <Placemark>
+            <name>1413</name>
+            <styleUrl>#hospitalIcon</styleUrl>
+            <description>Dansabau HC</description>
+            <Point>
+                <coordinates>7.213123,11.969325</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>1413 Catchment Area</name>
+            <description>Dansabau HC</description>
+            <styleUrl>#catchmentArea</styleUrl>
+            <MultiGeometry>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <coordinates>7.21387674037554,11.9627246252196,0 7.22035349245479,11.9610868258432,0 7.22958472530337,11.9509622478803,0 7.23866706729955,11.9541634012068,0 7.2446097389663,11.9707302001878,0 7.23866706729955,11.9961506215826,0 7.22991135945586,11.9969479922748,0 7.22696254197539,11.9909539938731,0 7.21246227727777,11.9792515098356,0 7.21100881895676,11.9664028186016,0 7.21387674037554,11.9627246252196,0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+        <Placemark>
+            <name>1414</name>
+            <styleUrl>#hospitalIcon</styleUrl>
+            <description>Sabon Birni Dispensary</description>
+            <Point>
+                <coordinates>7.92233,13.20497</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>1414 Catchment Area</name>
+            <description>Sabon Birni Dispensary</description>
+            <styleUrl>#catchmentArea</styleUrl>
+            <MultiGeometry>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <coordinates>7.88523096092552,13.199583644063,0 7.91200881904397,13.1818320302541,0 7.93111317727199,13.1724700113903,0 7.94217151877852,13.1825089985773,0 7.94217151877852,13.1864955898141,0 7.93908755197274,13.1930396169385,0 7.93863623975726,13.1983801448217,0 7.93758317792114,13.2034950165971,0 7.9384858023521,13.2155300090099,0 7.94600767261009,13.2177865700873,0 7.94540592298945,13.2224501296473,0 7.94420242374817,13.240051306051,0 7.94179542526562,13.2411043678871,0 7.92419424886192,13.235387746491,0 7.91697325341424,13.2286180632588,0 7.92103506335356,13.2083090135622,0 7.89012017659321,13.2064285459977,0 7.88523096092552,13.199583644063,0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+        <Placemark>
+            <name>1415</name>
+            <styleUrl>#hospitalIcon</styleUrl>
+            <description>Dankama PHC</description>
+            <Point>
+                <coordinates>7.797602,13.307428</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>1415 Catchment Area</name>
+            <description>Dankama PHC</description>
+            <styleUrl>#catchmentArea</styleUrl>
+            <MultiGeometry>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <coordinates>7.75961955519714,13.3104662322648,0 7.75916824298166,13.2931659306714,0 7.75781430633522,13.2850423107928,0 7.75435424601655,13.2772195657245,0 7.7575134315249,13.273909942811,0 7.77867187704387,13.2798628071464,0 7.80529841440585,13.2775558147396,0 7.80625515079669,13.2951216169385,0 7.8118213347876,13.3095636078338,0 7.81874145542496,13.3243064735395,0 7.81904233023528,13.351084331658,0 7.75961955519714,13.3104662322648,0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+        <Placemark>
+            <name>1416</name>
+            <styleUrl>#hospitalIcon</styleUrl>
+            <description>Yari Boring HC</description>
+            <Point>
+                <coordinates>7.592335,11.64665</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>1416 Catchment Area</name>
+            <description>Yari Boring HC</description>
+            <styleUrl>#catchmentArea</styleUrl>
+            <MultiGeometry>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <coordinates>7.60414998067844,11.646000573065,0 7.60542587764622,11.6484036986579,0 7.6000278520133,11.6522486563858,0 7.5999297060927,11.6579198719061,0 7.59806493360133,11.6629181353291,0 7.59806493360133,11.6672434829568,0 7.59590572334817,11.6764706658506,0 7.58913365482687,11.6785371282723,0 7.58540410984413,11.6780565569907,0 7.58206714854378,11.6776240421249,0 7.57293957792813,11.6747405924425,0 7.57549137186369,11.6704153616995,0 7.5783483040757,11.6620337967711,0 7.57654977587206,11.6497652650963,0 7.57314541891519,11.6334500449633,0 7.58053223118011,11.6364047698693,0 7.58972253035046,11.6352343154571,0 7.59345207533321,11.6333117256081,0 7.60051858161629,11.6288897185538,0 7.60846840118477,11.6269670848824,0 7.6129831135323,11.6272554807794,0 7.61239423800871,11.6280245350446,0 7.61013688183494,11.6312929919719,0 7.6068489934949,11.6407616872699,0 7.60532773172562,11.6429245419927,0 7.60532773172562,11.6429245419927,0 7.60414998067844,11.646000573065,0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+        <Placemark>
+            <name>1417</name>
+            <styleUrl>#hospitalIcon</styleUrl>
+            <description>Kanya HC</description>
+            <Point>
+                <coordinates>7.63229,11.479882</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>1417 Catchment Area</name>
+            <description>Kanya HC</description>
+            <styleUrl>#catchmentArea</styleUrl>
+            <MultiGeometry>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <coordinates>7.63665201695951,11.4803805001493,0 7.63311043363929,11.4835298455623,0 7.63192990586589,11.4909210282935,0 7.63068379321618,11.4920778915289,0 7.62497790897805,11.4958055296474,0 7.62176425003934,11.5019753050435,0 7.62274802318384,11.5089161407659,0 7.61638629018271,11.5108441203107,0 7.60431867294345,11.4931704802241,0 7.61546810191451,11.4884787458701,0 7.62419089046245,11.4798020451289,0 7.63809488423812,11.4743388003368,0 7.63783254473291,11.480187681941,0 7.63665201695951,11.4803805001493,0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+        <Placemark>
+            <name>1418</name>
+            <styleUrl>#hospitalIcon</styleUrl>
+            <description>Taura HC</description>
+            <Point>
+                <coordinates>7.61786,12.537198</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>1418 Catchment Area</name>
+            <description>Taura HC</description>
+            <styleUrl>#catchmentArea</styleUrl>
+            <MultiGeometry>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <coordinates>7.59647974822064,12.5455381731539,0 7.59817008941281,12.5417023989101,0 7.59563457762456,12.537671585298,0 7.60668680849644,12.534485942282,0 7.60928733340748,12.5332506929493,0 7.61097767459965,12.5340958635454,0 7.61396827824733,12.5333807191948,0 7.61786906561388,12.5304551286699,0 7.62001449866548,12.5309752336521,0 7.62508552224199,12.52928489246,0 7.64367927535587,12.5270744462856,0 7.64309415725089,12.5415073595418,0 7.63425237255338,12.5485937899244,0 7.63015654581851,12.5496339998888,0 7.62137977424377,12.5497640261343,0 7.61487846196619,12.5622465457073,0 7.61520352758007,12.5661473330738,0 7.61208289768684,12.5661473330738,0 7.60928733340748,12.5658872805827,0 7.60558158540926,12.5650421099867,0 7.59817008941281,12.5644569918817,0 7.59647974822064,12.5455381731539,0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+        <Placemark>
+            <name>1419</name>
+            <styleUrl>#hospitalIcon</styleUrl>
+            <description>Kayawa MCHC</description>
+            <Point>
+                <coordinates>8.1554,12.958405</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>1419 Catchment Area</name>
+            <description>Kayawa MCHC</description>
+            <styleUrl>#catchmentArea</styleUrl>
+            <MultiGeometry>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <coordinates>8.14692554070285,12.9651891731539,0 8.14725060631672,12.9572575721753,0 8.14861588189502,12.9540069160365,0 8.13567827046263,12.9534217979315,0 8.13002212878114,12.9529016929493,0 8.13015215502669,12.9487408530916,0 8.1755313147242,12.9511463386343,0 8.17566134096975,12.9536168372998,0 8.18053732517793,12.9542019554048,0 8.17819685275801,12.9653842125222,0 8.16955010742882,12.9644740288034,0 8.1596681127669,12.9706502754671,0 8.15550727290925,12.9670745537144,0 8.14692554070285,12.9651891731539,0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+        <Placemark>
+            <name>1420</name>
+            <styleUrl>#hospitalIcon</styleUrl>
+            <description>Barebari HC</description>
+            <Point>
+                <coordinates>7.39587,12.220518</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>1420 Catchment Area</name>
+            <description>Barebari HC</description>
+            <styleUrl>#catchmentArea</styleUrl>
+            <MultiGeometry>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <coordinates>7.40034290547153,12.2350774460632,0 7.38870555649466,12.2368978135009,0 7.38051390302491,12.2340372360988,0 7.38083896863879,12.220059414702,0 7.38556273884885,12.2179151153311,0 7.38902467606849,12.2146695491877,0 7.38226925733986,12.2004254516237,0 7.38304941481317,12.1965896773799,0 7.38623505782918,12.1939891524689,0 7.39273637010676,12.1934690474867,0 7.40795714523839,12.193032441565,0 7.4174774725924,12.2077456747485,0 7.41060769092218,12.2156973117998,0 7.40619408652135,12.2186941391237,0 7.41067999199288,12.2251954514012,0 7.40034290547153,12.2350774460632,0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+        <Placemark>
+            <name>1421</name>
+            <styleUrl>#hospitalIcon</styleUrl>
+            <description>Daye HC</description>
+            <Point>
+                <coordinates>7.962613,12.613522</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>1421 Catchment Area</name>
+            <description>Daye HC</description>
+            <styleUrl>#catchmentArea</styleUrl>
+            <MultiGeometry>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <coordinates>7.93871645992215,12.6492201088836,0 7.93114347225418,12.6420798633681,0 7.93319899747834,12.6400243381439,0 7.94217839714179,12.6384015550722,0 7.94455847898029,12.6273666301846,0 7.9588389700113,12.6092996453196,0 7.97582409949516,12.6116797271581,0 7.97961059332914,12.62303920866,0 7.96392369030265,12.6284484855657,0 7.95494429063921,12.6271502591084,0 7.95580977494412,12.6478136968881,0 7.95083324019089,12.6530066027176,0 7.93871645992215,12.6492201088836,0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+        <Placemark>
+            <name>1422</name>
+            <styleUrl>#hospitalIcon</styleUrl>
+            <description>Dan Tagwarma HC</description>
+            <Point>
+                <coordinates>8.733858,12.742045</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>1422 Catchment Area</name>
+            <description>Dan Tagwarma HC</description>
+            <styleUrl>#catchmentArea</styleUrl>
+            <MultiGeometry>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <coordinates>8.72651802496333,12.7753968506189,0 8.72162525346055,12.7738400596862,0 8.71773327612879,12.766500902432,0 8.71460506024517,12.7574891226734,0 8.70922951177195,12.7483258075951,0 8.74557985257817,12.7106772403315,0 8.7584539316137,12.7150046618561,0 8.77111163957301,12.7332880177973,0 8.75726389069445,12.7497322195906,0 8.74828449103101,12.7621735564737,0 8.73303033015697,12.769097430913,0 8.72902746524676,12.7728839247469,0 8.72651802496333,12.7753968506189,0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+        <Placemark>
+            <name>1423</name>
+            <styleUrl>#hospitalIcon</styleUrl>
+            <description>Kukar Toro Dispensary</description>
+            <Point>
+                <coordinates>7.412807,12.844262</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>1423 Catchment Area</name>
+            <description>Kukar Toro Dispensary</description>
+            <styleUrl>#catchmentArea</styleUrl>
+            <MultiGeometry>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <coordinates>7.39869988004521,12.8976977485972,0 7.39015322253423,12.892721213844,0 7.39047777914857,12.8878528646289,0 7.37132893890244,12.8688122099209,0 7.3710043822881,12.8447950204596,0 7.3938315308301,12.8444704638453,0 7.40562375448449,12.8396021146302,0 7.41525226737662,12.840359413397,0 7.41537540302539,12.850600387985,0 7.42022162104099,12.8546205461116,0 7.42044190367806,12.8628811450018,0 7.41262187006198,12.863541992913,0 7.41243944338566,12.8777916095843,0 7.4206615442823,12.8800635058847,0 7.42282525504458,12.8870955658621,0 7.41600956614341,12.8934785126108,0 7.41557682399096,12.8933703270727,0 7.39869988004521,12.8976977485972,0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+        <Placemark>
+            <name>1424</name>
+            <styleUrl>#hospitalIcon</styleUrl>
+            <description>Kayauki MCHC</description>
+            <Point>
+                <coordinates>7.706695,13.010065</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>1424 Catchment Area</name>
+            <description>Kayauki MCHC</description>
+            <styleUrl>#catchmentArea</styleUrl>
+            <MultiGeometry>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <coordinates>7.69665974495542,13.0121441746076,0 7.69741704372222,13.0066267121638,0 7.70996656614341,13.0074921964687,0 7.71267120459626,13.0179861936657,0 7.7012035375562,13.0160388539797,0 7.69665974495542,13.0121441746076,0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+        <Placemark>
+            <name>1425</name>
+            <styleUrl>#hospitalIcon</styleUrl>
+            <description>Babban Gawo HC</description>
+            <Point>
+                <coordinates>7.629817,12.866692</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>1425 Catchment Area</name>
+            <description>Babban Gawo HC</description>
+            <styleUrl>#catchmentArea</styleUrl>
+            <MultiGeometry>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <coordinates>7.62685104759102,12.8665031499108,0 7.62715862784084,12.8597363844147,0 7.63073974074946,12.8599560845932,0 7.63214582189149,12.8623288465204,0 7.63098141094575,12.8693153121948,0 7.62685104759102,12.8665031499108,0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+        <Placemark>
+            <name>1426</name>
+            <styleUrl>#hospitalIcon</styleUrl>
+            <description>Ruma HC</description>
+            <Point>
+                <coordinates>8.306052,12.85674</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>1426 Catchment Area</name>
+            <description>Ruma HC</description>
+            <styleUrl>#catchmentArea</styleUrl>
+            <MultiGeometry>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <coordinates>8.30857740214132,12.8717295371787,0 8.29451659072097,12.8706749763222,0 8.29223170886516,12.8530989620468,0 8.28906802629558,12.8499352794772,0 8.29021046722348,12.8462443164793,0 8.28827710565319,12.8438715545522,0 8.2878377052963,12.842904873767,0 8.29302262950755,12.837544189413,0 8.30014091528911,12.8392139107692,0 8.3090168024982,12.8401805915543,0 8.33010801962873,12.8437836744808,0 8.33116258048525,12.8523959214758,0 8.32202305306203,12.8661052126106,0 8.3120926049964,12.8734871386063,0 8.30857740214132,12.8717295371787,0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+        <Placemark>
+            <name>1427</name>
+            <styleUrl>#hospitalIcon</styleUrl>
+            <description>Kashe Dauga Dispensary</description>
+            <Point>
+                <coordinates>8.064892,13.09125</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>1427 Catchment Area</name>
+            <description>Kashe Dauga Dispensary</description>
+            <styleUrl>#catchmentArea</styleUrl>
+            <MultiGeometry>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <coordinates>8.07858715336192,13.1256360300999,0 8.07920231386156,13.1201874656745,0 8.07102946722348,13.119132904818,0 8.07015066650971,13.121945067102,0 8.06610818322636,13.1204511058886,0 8.05785677820869,13.1152869990868,0 8.06145053944337,13.1121903791792,0 8.05811109673104,13.1073569752534,0 8.05846261701655,13.1055114937545,0 8.04132600309799,13.0874081990508,0 8.03429559738782,13.0862657581229,0 8.03385619703093,13.0839808762671,0 8.03384708881301,13.0780834867644,0 8.03844958518279,13.0721769497565,0 8.04339992213115,13.0722504062784,0 8.04936158461017,13.0708051547683,0 8.05460062133416,13.0691792468195,0 8.06874458536768,13.0774777509852,0 8.07814775300504,13.0917143225483,0 8.0856175590721,13.0975144072592,0 8.08632059964311,13.1106964179658,0 8.08526603878659,13.1171995432477,0 8.08649635978587,13.1221208272448,0 8.08579331921485,13.1263390706709,0 8.07858715336192,13.1256360300999,0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+        <Placemark>
+            <name>1428</name>
+            <styleUrl>#hospitalIcon</styleUrl>
+            <description>Gwanamarde HC</description>
+            <Point>
+                <coordinates>7.691697,11.856623</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>1428 Catchment Area</name>
+            <description>Gwanamarde HC</description>
+            <styleUrl>#catchmentArea</styleUrl>
+            <MultiGeometry>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <coordinates>7.66599728567422,11.8591384934455,0 7.65452039407069,11.8632419630691,0 7.64695462195216,11.8556120742377,0 7.64653786331851,11.8434298987926,0 7.67045339721861,11.8330429913078,0 7.68693139242592,11.8343894422781,0 7.70026766870265,11.8369541107928,0 7.69943415143535,11.8517009547527,0 7.69475363139592,11.8622160956632,0 7.68103265484198,11.8560608912277,0 7.66599728567422,11.8591384934455,0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+        <Placemark>
+            <name>1429</name>
+            <styleUrl>#hospitalIcon</styleUrl>
+            <description>Gwojogwojo MCHC</description>
+            <Point>
+                <coordinates>8.21411,13.162465</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>1429 Catchment Area</name>
+            <description>Gwojogwojo MCHC</description>
+            <styleUrl>#catchmentArea</styleUrl>
+            <MultiGeometry>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <coordinates>8.17937251112316,13.1601200028766,0 8.18024845347137,13.1569347579741,0 8.17690394632366,13.1533911730199,0 8.18152255143241,13.1405307467257,0 8.20860514721839,13.1409234284634,0 8.21974549026346,13.1588459049156,0 8.21456946729675,13.172860982487,0 8.19689135808739,13.1662515993141,0 8.18821156572784,13.1732591380998,0 8.17937251112316,13.1601200028766,0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+        <Placemark>
+            <name>1430</name>
+            <styleUrl>#hospitalIcon</styleUrl>
+            <description>Shekiyal PCH</description>
+            <Point>
+                <coordinates>8.086857,13.270697</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>1430 Catchment Area</name>
+            <description>Shekiyal PCH</description>
+            <styleUrl>#catchmentArea</styleUrl>
+            <MultiGeometry>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <coordinates>8.06747934710629,13.2918596316997,0 8.07265826325497,13.2713866638179,0 8.0707392355223,13.2583896123557,0 8.07126260672212,13.256732270223,0 8.10566308152741,13.2606962251318,0 8.10566308152741,13.2606962251318,0 8.10566308152741,13.2606962251318,0 8.09804345739404,13.2929726105057,0 8.06747934710629,13.2918596316997,0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+        <Placemark>
+            <name>1431</name>
+            <styleUrl>#hospitalIcon</styleUrl>
+            <description>Kudewa HC</description>
+            <Point>
+                <coordinates>7.451088,12.531685</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>1431 Catchment Area</name>
+            <description>Kudewa HC</description>
+            <styleUrl>#catchmentArea</styleUrl>
+            <MultiGeometry>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <coordinates>7.45212894846546,12.5477268572611,0 7.4479419788669,12.5489480567274,0 7.44028767506954,12.5533094833925,0 7.43688576227071,12.5519138268597,0 7.437976118937,12.5444994015289,0 7.43769262620376,12.5358201624652,0 7.43551191287118,12.5317640356666,0 7.43876117573673,12.5138385720728,0 7.44386404493497,12.5120940014067,0 7.44848715720005,12.5223869683365,0 7.44691704360059,12.5249165958023,0 7.45223798413209,12.5318076499333,0 7.4606119233292,12.5450227727287,0 7.45212894846546,12.5477268572611,0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+        <Placemark>
+            <name>1432</name>
+            <styleUrl>#hospitalIcon</styleUrl>
+            <description>Dannayaki MCHC</description>
+            <Point>
+                <coordinates>7.785257,12.607813</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>1432 Catchment Area</name>
+            <description>Dannayaki MCHC</description>
+            <styleUrl>#catchmentArea</styleUrl>
+            <MultiGeometry>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <coordinates>7.77525507198709,12.5995854937133,0 7.77734873280431,12.5973220766136,0 7.77678287852939,12.5957376846438,0 7.76976628552032,12.5950020740864,0 7.76433408448103,12.5685766794474,0 7.76563554931336,12.5681239960274,0 7.80977218275753,12.6006606168357,0 7.80813120536025,12.6137884360139,0 7.79025021027261,12.6151464862737,0 7.78312044640855,12.6082430641196,0 7.77185994633754,12.6075074535622,0 7.77191653176503,12.6075074535622,0 7.77525507198709,12.5995854937133,0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+        <Placemark>
+            <name>1433</name>
+            <styleUrl>#hospitalIcon</styleUrl>
+            <description>Rimaye CHC</description>
+            <Point>
+                <coordinates>7.862082,12.312078</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>1433 Catchment Area</name>
+            <description>Rimaye CHC</description>
+            <styleUrl>#catchmentArea</styleUrl>
+            <MultiGeometry>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <coordinates>7.85444715006029,12.3247947593803,0 7.82958045782089,12.319590102865,0 7.83811031155417,12.2958800009623,0 7.84490527978238,12.2860489831003,0 7.85415800247611,12.280844326585,0 7.86442274171446,12.2802660314167,0 7.87642236645789,12.2892296065262,0 7.88466307260699,12.2984100423239,0 7.88639795811207,12.3094699374188,0 7.89247005737983,12.3305054241678,0 7.90208421455378,12.332457170361,0 7.89442180357304,12.3383846958367,0 7.85965180657551,12.3375172530841,0 7.85444715006029,12.3247947593803,0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+        <Placemark>
+            <name>1434</name>
+            <styleUrl>#hospitalIcon</styleUrl>
+            <description>Daga Dispensary</description>
+            <Point>
+                <coordinates>7.631897,13.151033</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>1434 Catchment Area</name>
+            <description>Daga Dispensary</description>
+            <styleUrl>#catchmentArea</styleUrl>
+            <MultiGeometry>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <coordinates>7.62245431840325,13.1844475185661,0 7.61640647342755,13.1821214243447,0 7.61314994151756,13.172817047459,0 7.6132080938731,13.1487419722673,0 7.60622981120884,13.1507773047111,0 7.60483415467598,13.1458925068461,0 7.6194303959154,13.1459506592016,0 7.61384776978399,13.1407169472034,0 7.61233580854007,13.1368788917381,0 7.62047713831504,13.1212940604546,0 7.6362945790207,13.1226897169874,0 7.65478702808099,13.1273419054303,0 7.63175869528893,13.1588604821305,0 7.63931850150855,13.1706072579487,0 7.62245431840325,13.1844475185661,0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+        <Placemark>
+            <name>1435</name>
+            <styleUrl>#hospitalIcon</styleUrl>
+            <description>Yangayya HC</description>
+            <Point>
+                <coordinates>7.358785,13.010848</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>1435 Catchment Area</name>
+            <description>Yangayya HC</description>
+            <styleUrl>#catchmentArea</styleUrl>
+            <MultiGeometry>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <coordinates>7.37445454286104,13.0103228757978,0 7.32735113487727,13.0129397317969,0 7.32582463554446,13.0040860356666,0 7.33188701860904,13.0024286935339,0 7.35539510833427,12.9960610106027,0 7.36154471993215,13.0012511083343,0 7.38042969739232,12.9944908970033,0 7.38588148072377,13.0002915944679,0 7.37445454286104,13.0103228757978,0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+        <Placemark>
+            <name>1436</name>
+            <styleUrl>#hospitalIcon</styleUrl>
+            <description>Daura GH</description>
+            <Point>
+                <coordinates>8.309428,13.03553</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>1436 Catchment Area</name>
+            <description>Daura GH</description>
+            <styleUrl>#catchmentArea</styleUrl>
+            <MultiGeometry>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <coordinates>8.30601648982169,13.0457299284532,0 8.28743394190782,13.0297815895389,0 8.27475061555392,13.022741004885,0 8.28669653921283,13.0073659715315,0 8.28994111107081,13.0000373491248,0 8.30491038577919,13.0062882465198,0 8.3038780220062,13.0267642206248,0 8.31122823798511,13.0333238207721,0 8.31184197111214,13.0465201347275,0 8.30601648982169,13.0457299284532,0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+        <Placemark>
+            <name>1437</name>
+            <styleUrl>#hospitalIcon</styleUrl>
+            <description>Urban HC</description>
+            <Point>
+                <coordinates>8.316413,13.035625</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>1437 Catchment Area</name>
+            <description>Urban HC</description>
+            <styleUrl>#catchmentArea</styleUrl>
+            <MultiGeometry>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <coordinates>8.31288182535047,13.0345145661215,0 8.31328044264019,13.0334753139019,0 8.31467560315421,13.0339593491822,0 8.31524505642524,13.0324787706776,0 8.31588569135514,13.0318950810748,0 8.31910310233645,13.0328062063084,0 8.31850517640187,13.0366784885514,0 8.31683952558411,13.0363368165888,0 8.31416649591845,13.0354442877043,0 8.31288182535047,13.0345145661215,0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+        <Placemark>
+            <name>1438</name>
+            <styleUrl>#hospitalIcon</styleUrl>
+            <description>Shadambu Low Cost HC</description>
+            <Point>
+                <coordinates>8.308772,13.024623</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>1438 Catchment Area</name>
+            <description>Shadambu Low Cost HC</description>
+            <styleUrl>#catchmentArea</styleUrl>
+            <MultiGeometry>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <coordinates>8.30926252839987,13.0316658969309,0 8.30426869486825,13.0264976063327,0 8.30446495906818,13.0209585944679,0 8.31418031634448,13.021704204414,0 8.3125727115489,13.0253531489624,0 8.31468169803815,13.0272233822642,0 8.31374906839963,13.0289294727496,0 8.3156292497509,13.0309190826451,0 8.3145648084568,13.0339134455379,0 8.31317208152993,13.0334558352619,0 8.31272690631581,13.0344307441107,0 8.30926252839987,13.0316658969309,0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+        <Placemark>
+            <name>1439</name>
+            <styleUrl>#hospitalIcon</styleUrl>
+            <description>Kauran Alasan PHC</description>
+            <Point>
+                <coordinates>7.281107,11.294693</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>1439 Catchment Area</name>
+            <description>Kauran Alasan PHC</description>
+            <styleUrl>#catchmentArea</styleUrl>
+            <MultiGeometry>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <coordinates>7.26302785080627,11.3098289219948,0 7.2510659064366,11.3104238781721,0 7.24211150812017,11.2981904044159,0 7.24211150812017,11.2920106083947,0 7.26178596075909,11.2782637152047,0 7.26632621906038,11.278515951777,0 7.27313660651231,11.2749846397649,0 7.28322606940406,11.2761197043402,0 7.28915362885297,11.284569629512,0 7.30454005976289,11.2886054146687,0 7.30781913520271,11.2928934363977,0 7.30732355908884,11.3054256984506,0 7.31016993203764,11.3131884575632,0 7.30759040655279,11.319904382767,0 7.30870196320574,11.3147118999011,0 7.27414555280149,11.3158469644765,0 7.26302785080627,11.3098289219948,0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+        <Placemark>
+            <name>1440</name>
+            <styleUrl>#hospitalIcon</styleUrl>
+            <description>Family Support Clinic</description>
+            <Point>
+                <coordinates>8.313121,13.036974</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>1440 Catchment Area</name>
+            <description>Family Support Clinic</description>
+            <styleUrl>#catchmentArea</styleUrl>
+            <MultiGeometry>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <coordinates>8.31195112447245,13.0466054437624,0 8.31127776729176,13.0335153801697,0 8.31418667031235,13.0356431888607,0 8.31669614985575,13.0363132774865,0 8.31669614985575,13.0380375055935,0 8.31702799633245,13.0382530332621,0 8.31758107379363,13.0395102742534,0 8.31828163857779,13.0417732919369,0 8.31806040759332,13.0419528956282,0 8.31802353576257,13.0431023561643,0 8.31850286956226,13.0432819588905,0 8.31470507099551,13.0461196646535,0 8.31195112447245,13.0466054437624,0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+        <Placemark>
+            <name>1501</name>
+            <styleUrl>#hospitalIcon</styleUrl>
+            <description>PHC Damri</description>
+            <Point>
+                <coordinates>5.836507,12.408423</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>1501 Catchment Area</name>
+            <description>PHC Damri</description>
+            <styleUrl>#catchmentArea</styleUrl>
+            <MultiGeometry>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <coordinates>5.74049136566764,12.4615276688858,0 5.78475515470481,12.4463426518067,0 5.81225117296422,12.3880034413811,0 5.85352310942586,12.3896498961946,0 5.85664892554955,12.408185424957,0 5.87708953027265,12.4134950657815,0 5.88910159509081,12.4199275451006,0 5.89125617549034,12.4286274929071,0 5.91228845255114,12.453951622865,0 5.91118883509335,12.4573690465622,0 5.94094548822792,12.4729076730268,0 5.9380429446845,12.479796474774,0 5.91553706859397,12.4790552833848,0 5.86893449927854,12.4781560409828,0 5.74223289179369,12.5137582016906,0 5.74049136566764,12.4615276688858,0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+        <Placemark>
+            <name>1502</name>
+            <styleUrl>#hospitalIcon</styleUrl>
+            <description>PHC Yarkofoji</description>
+            <Point>
+                <coordinates>5.94237,12.661817</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>1502 Catchment Area</name>
+            <description>PHC Yarkofoji</description>
+            <styleUrl>#catchmentArea</styleUrl>
+            <MultiGeometry>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <coordinates>5.9143356104082,12.6599256869343,0 5.93832345706661,12.6315764136107,0 5.96623658772366,12.6487604346715,0 5.95350122186138,12.6715270818636,0 5.94224874106525,12.6826923341265,0 5.9143356104082,12.6599256869343,0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+        <Placemark>
+            <name>1503</name>
+            <styleUrl>#hospitalIcon</styleUrl>
+            <description>MDG Clinic Badamma</description>
+            <Point>
+                <coordinates>5.870362,12.795545</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>1503 Catchment Area</name>
+            <description>MDG Clinic Badamma</description>
+            <styleUrl>#catchmentArea</styleUrl>
+            <MultiGeometry>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <coordinates>5.8618137464028,12.8138645349271,0 5.85823737653736,12.8067990237295,0 5.85553329200496,12.7995590554653,0 5.85570774907157,12.7910542734683,0 5.86914094320027,12.7624433145448,0 5.88013173839649,12.7411595524188,0 5.8885056775936,12.7336578985547,0 5.89304156132537,12.7327856132217,0 5.89356493252519,12.7254584164242,0 5.92357154798152,12.7277263582901,0 5.93962159810933,12.7687237689426,0 5.94140978304205,12.7770104796064,0 5.91986433531613,12.7935402866674,0 5.90878631158662,12.8014344689314,0 5.89321601839198,12.8126869497275,0 5.88257413732898,12.8196652323918,0 5.8618137464028,12.8138645349271,0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+        <Placemark>
+            <name>1504</name>
+            <styleUrl>#hospitalIcon</styleUrl>
+            <description>PHC Birnin Tudu</description>
+            <Point>
+                <coordinates>6.03467,12.651593</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>1504 Catchment Area</name>
+            <description>PHC Birnin Tudu</description>
+            <styleUrl>#catchmentArea</styleUrl>
+            <MultiGeometry>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <coordinates>6.03178759053713,12.647122916802,0 6.01582476894263,12.6316834664073,0 6.03178759053713,12.6110103040144,0 6.04975666839761,12.6144558310799,0 6.04382512813299,12.6366991070722,0 6.06135806332695,12.6415402906706,0 6.08647988091829,12.6504594082008,0 6.09537719131523,12.6541666208662,0 6.09398153478238,12.6683848717947,0 6.07008091665728,12.6579828691982,0 6.05089063933055,12.6675780078616,0 6.02786230653849,12.6537086710664,0 6.03178759053713,12.647122916802,0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+        <Placemark>
+            <name>1505</name>
+            <styleUrl>#hospitalIcon</styleUrl>
+            <description>GH Talata Mafara</description>
+            <Point>
+                <coordinates>6.060288,12.56446</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>1505 Catchment Area</name>
+            <description>GH Talata Mafara</description>
+            <styleUrl>#catchmentArea</styleUrl>
+            <MultiGeometry>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <coordinates>6.04377534814607,12.5861372653602,0 6.02837385439167,12.5702642973072,0 6.05289051791908,12.5347465668124,0 6.07866444624276,12.537575412604,0 6.07740718144648,12.54229015559,0 6.06986359266882,12.5568665693219,0 6.0651095601579,12.5558450416749,0 6.06452021728464,12.5603633370365,0 6.0655810344565,12.5627599980544,0 6.06593464018045,12.5634279199774,0 6.06624895637952,12.564920921923,0 6.06436305918511,12.5649995009728,0 6.06400945346115,12.564920921923,0 6.06448092775976,12.5705000344565,0 6.06397016393627,12.5750969088679,0 6.06330224201325,12.5759219888905,0 6.06393087441139,12.5773757013111,0 6.05901968380093,12.5795366251797,0 6.05846963045256,12.5798116518539,0 6.04377534814607,12.5861372653602,0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+        <Placemark>
+            <name>1506</name>
+            <styleUrl>#hospitalIcon</styleUrl>
+            <description>Moriki GH</description>
+            <Point>
+                <coordinates>6.4989319,12.87529</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>1506 Catchment Area</name>
+            <description>Moriki GH</description>
+            <styleUrl>#catchmentArea</styleUrl>
+            <MultiGeometry>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <coordinates>6.49319210144755,12.8775783711412,0 6.49197591587693,12.877418346724,0 6.49111178402412,12.8759461220859,0 6.48707916871103,12.8755940683681,0 6.48640706615885,12.8741538486134,0 6.47997408458796,12.8740258290797,0 6.48154232387638,12.8619599880238,0 6.50941857735024,12.8379243205625,0 6.51601158333831,12.8382443693968,0 6.51709974937518,12.8406127307712,0 6.52010820841828,12.8433651507468,0 6.52938962461509,12.846821678158,0 6.52247656979264,12.8752420146503,0 6.50685818667526,12.8816429913378,0 6.49380019423285,12.8781864639265,0 6.49319210144755,12.8775783711412,0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+        <Placemark>
+            <name>1507</name>
+            <styleUrl>#hospitalIcon</styleUrl>
+            <description>Zurmi PHC</description>
+            <Point>
+                <coordinates>6.780345,12.780507</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>1507 Catchment Area</name>
+            <description>Zurmi PHC</description>
+            <styleUrl>#catchmentArea</styleUrl>
+            <MultiGeometry>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <coordinates>6.77896533107477,12.7818937171729,0 6.77150027266355,12.7808320199766,0 6.7715998067757,12.7795712545561,0 6.77100260210281,12.7759216704439,0 6.76675581331776,12.7690206386682,0 6.76562776004673,12.7596312540888,0 6.78397521471963,12.7598303223131,0 6.78397521471963,12.7605934171729,0 6.7830462296729,12.7683902559579,0 6.78228313481309,12.7734001396028,0 6.78351072219626,12.7757889582944,0 6.78383478971222,12.7803531375552,0 6.78611964417908,12.779909807584,0 6.78752526471963,12.7811969783879,0 6.77896533107477,12.7818937171729,0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+        <Placemark>
+            <name>1508</name>
+            <styleUrl>#hospitalIcon</styleUrl>
+            <description>Zurmi Town Dispensary</description>
+            <Point>
+                <coordinates>6.783835,12.778883</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>1508 Catchment Area</name>
+            <description>Zurmi Town Dispensary</description>
+            <styleUrl>#catchmentArea</styleUrl>
+            <MultiGeometry>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <coordinates>6.78612578468623,12.7798711966609,0 6.78386072210955,12.7803503445136,0 6.78354390023365,12.775755780257,0 6.78228313481309,12.7734333176402,0 6.78417428294393,12.7599298564252,0 6.79263468247664,12.7605270610981,0 6.79485761098131,12.7811638003505,0 6.78759162079439,12.7811969783879,0 6.78612578468623,12.7798711966609,0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+        <Placemark>
+            <name>1509</name>
+            <styleUrl>#hospitalIcon</styleUrl>
+            <description>Bindin PCH</description>
+            <Point>
+                <coordinates>6.336718,11.690068</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>1509 Catchment Area</name>
+            <description>Bindin PCH</description>
+            <styleUrl>#catchmentArea</styleUrl>
+            <MultiGeometry>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <coordinates>6.33054805053457,11.7064784676382,0 6.33727974926067,11.7252010047201,0 6.35978886687607,11.7245699079645,0 6.36904495262446,11.7512863372838,0 6.35516082400187,11.7447650041428,0 6.34485291032753,11.7306705099351,0 6.30425235238574,11.7323534346166,0 6.2729212306347,11.6724061568576,0 6.25503158149284,11.662829712042,0 6.25925971072288,11.6557367324005,0 6.26933788114963,11.6548593665451,0 6.28374170782965,11.64920643707,0 6.28763347115568,11.6472079640107,0 6.28973712700758,11.616704954158,0 6.31466544885267,11.6024000943651,0 6.30583009427467,11.6352171256548,0 6.29678437411147,11.6548863078701,0 6.31824166380092,11.6448939425736,0 6.3568437486834,11.6475235123885,0 6.34653583500906,11.6726621998188,0 6.33822331175336,11.691755513751,0 6.33054805053457,11.7064784676382,0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+        <Placemark>
+            <name>1510</name>
+            <styleUrl>#hospitalIcon</styleUrl>
+            <description>Dustin Gari Dispensary</description>
+            <Point>
+                <coordinates>6.308567,12.175183</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>1510 Catchment Area</name>
+            <description>Dustin Gari Dispensary</description>
+            <styleUrl>#catchmentArea</styleUrl>
+            <MultiGeometry>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <coordinates>6.3248279785726,12.1043367392171,0 6.34321084682502,12.1134109226716,0 6.34820813139849,12.127196111078,0 6.35347312764555,12.1342629250657,0 6.35668566772849,12.1353970876395,0 6.35838117499449,12.136967458618,0 6.36141524062839,12.142725406339,0 6.36052286838312,12.1484832295604,0 6.35831022984866,12.1810117420867,0 6.36182726719068,12.2154284646478,0 6.28796948300836,12.2279893122979,0 6.25631614693023,12.2478354515849,0 6.25857709950724,12.1885482506767,0 6.3248279785726,12.1043367392171,0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+        <Placemark>
+            <name>1511</name>
+            <styleUrl>#hospitalIcon</styleUrl>
+            <description>Faru PHC</description>
+            <Point>
+                <coordinates>6.290797,12.748732</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>1511 Catchment Area</name>
+            <description>Faru PHC</description>
+            <styleUrl>#catchmentArea</styleUrl>
+            <MultiGeometry>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <coordinates>6.27220881432895,12.7805370270981,0 6.27169485872691,12.7592341890351,0 6.24548312302285,12.7509631919078,0 6.2627006356912,12.7271512376631,0 6.26295761349222,12.7216365714539,0 6.2639855246963,12.7148684082444,0 6.28659957118608,12.7166231345504,0 6.29662170542587,12.7005794713813,0 6.3084426842728,12.6995767088016,0 6.31075548448198,12.7000780905859,0 6.31204037348708,12.6918051647352,0 6.33362650877278,12.6988246342715,0 6.3338834865738,12.717625829852,0 6.30998455107892,12.7196312085744,0 6.30227521704832,12.7116095986503,0 6.29919148343607,12.7183778487294,0 6.30433103945648,12.7246445860624,0 6.31126944008402,12.7281538913685,0 6.30690081746668,12.7441958114593,0 6.31640899610443,12.7454490437031,0 6.31743690730851,12.7532189452004,0 6.32463228573707,12.7564772200247,0 6.32360437453299,12.7710136272556,0 6.33285557536972,12.7760259877043,0 6.33362650877278,12.7837949498917,0 6.27220881432895,12.7807876380358,0 6.27220881432895,12.7805370270981,0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+        <Placemark>
+            <name>1512</name>
+            <styleUrl>#hospitalIcon</styleUrl>
+            <description>Dosara HF</description>
+            <Point>
+                <coordinates>6.1587286,12.528313</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>1512 Catchment Area</name>
+            <description>Dosara HF</description>
+            <styleUrl>#catchmentArea</styleUrl>
+            <MultiGeometry>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <coordinates>6.18267614800406,12.5417408097297,0 6.16079107145891,12.5450322382901,0 6.1614694178483,12.5514086943504,0 6.15360059973135,12.5554787726867,0 6.16241910279344,12.5785425499261,0 6.14803815933834,12.5849190059863,0 6.1439466792174,12.5232483606694,0 6.14255102268454,12.5115597372068,0 6.14030501049927,12.5043314549266,0 6.14695280511531,12.5046027934824,0 6.17534895120658,12.5112980516069,0 6.1786636354721,12.5095534809408,0 6.18590360373628,12.5115597372068,0 6.19497537119982,12.5207187332037,0 6.20840856532853,12.5342391558657,0 6.18991611626823,12.5388622681307,0 6.18267614800406,12.5417408097297,0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+        <Placemark>
+            <name>1513</name>
+            <styleUrl>#hospitalIcon</styleUrl>
+            <description>Damaga PHC</description>
+            <Point>
+                <coordinates>6.382723,12.398452</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>1513 Catchment Area</name>
+            <description>Damaga PHC</description>
+            <styleUrl>#catchmentArea</styleUrl>
+            <MultiGeometry>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <coordinates>6.35917808566041,12.4471602139611,0 6.35833860027364,12.3968321324008,0 6.36047569933957,12.3926015485356,0 6.36143521320591,12.3881528933371,0 6.36727952493723,12.3830064098722,0 6.37966597666629,12.3781216120072,0 6.38123609026575,12.3823085816058,0 6.40282515225832,12.3892432500034,0 6.40173286709642,12.4470747625928,0 6.35917808566041,12.4471602139611,0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+        <Placemark>
+            <name>1514</name>
+            <styleUrl>#hospitalIcon</styleUrl>
+            <description>Magami Dispensary</description>
+            <Point>
+                <coordinates>6.658615,12.60217</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>1514 Catchment Area</name>
+            <description>Magami Dispensary</description>
+            <styleUrl>#catchmentArea</styleUrl>
+            <MultiGeometry>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <coordinates>6.6478688904037,12.6251098611919,0 6.64909008986994,12.6027793566663,0 6.65109634613592,12.5954521598688,0 6.64917731840324,12.5827167940065,0 6.64943900400316,12.5807977662739,0 6.65380043066832,12.5732088838765,0 6.68197524692528,12.585159192939,0 6.66269774106526,12.6262438321249,0 6.6478688904037,12.6251098611919,0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+        <Placemark>
+            <name>1515</name>
+            <styleUrl>#hospitalIcon</styleUrl>
+            <description>Fegin Mahe Dispensary</description>
+            <Point>
+                <coordinates>6.93865,12.2002</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>1515 Catchment Area</name>
+            <description>Fegin Mahe Dispensary</description>
+            <styleUrl>#catchmentArea</styleUrl>
+            <MultiGeometry>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <coordinates>6.92726593817696,12.2133346577995,0 6.92000859481889,12.198209238176,0 6.92516110046722,12.1868473026438,0 6.97074095812555,12.1871115337026,0 6.96380489282971,12.2123455998265,0 6.92971077348841,12.2201574540175,0 6.92726593817696,12.2133346577995,0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+        <Placemark>
+            <name>1516</name>
+            <styleUrl>#hospitalIcon</styleUrl>
+            <description>Dan Magori HC</description>
+            <Point>
+                <coordinates>6.436425,12.210517</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>1516 Catchment Area</name>
+            <description>Dan Magori HC</description>
+            <styleUrl>#catchmentArea</styleUrl>
+            <MultiGeometry>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <coordinates>6.44311382559766,12.1945774214723,0 6.44852199466246,12.1959730780052,0 6.45157499332807,12.1964092206717,0 6.46535710158999,12.1859417966753,0 6.46945684265525,12.1904776804071,0 6.46431035919036,12.2061788164017,0 6.46832287172231,12.212895413466,0 6.47783078185237,12.2181291254642,0 6.46692721518945,12.2389767449237,0 6.45619810559315,12.2405468585232,0 6.44625405279658,12.2514504251861,0 6.43465265786724,12.2479612838539,0 6.43508880053375,12.2388895163904,0 6.43151243066832,12.2374938598575,0 6.4309018309352,12.2360109747914,0 6.43316977280108,12.2345280897252,0 6.43316977280108,12.2326962905259,0 6.43456542933393,12.2308644913265,0 6.43142520213502,12.2241478942621,0 6.43029123120207,12.2222288665295,0 6.43255917306796,12.2085339868009,0 6.43674614266652,12.2018173897365,0 6.43692059973312,12.2016429326699,0 6.43718228533303,12.1957113924053,0 6.44311382559766,12.1945774214723,0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+        <Placemark>
+            <name>1517</name>
+            <styleUrl>#hospitalIcon</styleUrl>
+            <description>Tofa PHC</description>
+            <Point>
+                <coordinates>6.813035,12.217442</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>1517 Catchment Area</name>
+            <description>Tofa PHC</description>
+            <styleUrl>#catchmentArea</styleUrl>
+            <MultiGeometry>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <coordinates>6.82186231039694,12.2305064371955,0 6.81165657200045,12.2433290315911,0 6.77737575841226,12.2286746379962,0 6.78295838454367,12.2175093857334,0 6.78967498160802,12.2162009577338,0 6.79909566320478,12.1976212801402,0 6.79543206480604,12.1849731428112,0 6.80297652584002,12.1851344379924,0 6.80410819965145,12.184972770305,0 6.83167254034402,12.1749493736896,0 6.84619907118855,12.2227430977315,0 6.82186231039694,12.2305064371955,0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+        <Placemark>
+            <name>1518</name>
+            <styleUrl>#hospitalIcon</styleUrl>
+            <description>Tashartaya Dispensary</description>
+            <Point>
+                <coordinates>5.518278,12.01887</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>1518 Catchment Area</name>
+            <description>Tashartaya Dispensary</description>
+            <styleUrl>#catchmentArea</styleUrl>
+            <MultiGeometry>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <coordinates>5.36512758968036,11.960359098089,0 5.3931231464931,11.9494183057713,0 5.41790082321243,11.9462004256779,0 5.46242212206715,11.9502371541429,0 5.47614043673193,11.9452244418324,0 5.52919560549568,11.9373009331573,0 5.541922234763,11.9547646854843,0 5.58142436976157,11.9677000718307,0 5.61150549348432,11.9736824787092,0 5.61282774068093,12.0163639119423,0 5.60389429261205,12.0292217320881,0 5.58072555593944,12.0395189483871,0 5.53792775069696,12.0433804044992,0 5.52151656222052,12.0729849013586,0 5.48354557711818,12.0227859719013,0 5.48644166920226,12.0073401474529,0 5.47118200974466,11.9945390230041,0 5.3654493776897,11.9902853829578,0 5.36512758968036,11.960359098089,0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+        <Placemark>
+            <name>1519</name>
+            <styleUrl>#hospitalIcon</styleUrl>
+            <description>Gana Dispensary</description>
+            <Point>
+                <coordinates>5.713707,12.036567</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>1519 Catchment Area</name>
+            <description>Gana Dispensary</description>
+            <styleUrl>#catchmentArea</styleUrl>
+            <MultiGeometry>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <coordinates>5.70307630332675,12.0079052215625,0 5.72946853696019,12.0146366288355,0 5.72900788128557,12.0366329372988,0 5.72854722561094,12.0496464601069,0 5.72843206169229,12.0503374436188,0 5.72589845548186,12.0517194106427,0 5.71530337496551,12.0507980992935,0 5.70839353984615,12.0491858044323,0 5.6695832992591,12.0511435910494,0 5.66866198790986,12.0362874455428,0 5.66059911213582,12.0109768271274,0 5.6837384380764,11.9961034639261,0 5.70307630332675,12.0079052215625,0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+        <Placemark>
+            <name>1520</name>
+            <styleUrl>#hospitalIcon</styleUrl>
+            <description>Gusami Dispensary</description>
+            <Point>
+                <coordinates>6.861557,12.345012</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>1520 Catchment Area</name>
+            <description>Gusami Dispensary</description>
+            <styleUrl>#catchmentArea</styleUrl>
+            <MultiGeometry>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <coordinates>6.85591011229138,12.3440648666327,0 6.87252084269872,12.3314706959519,0 6.90359365181893,12.3520570069294,0 6.91522906133864,12.3884088003746,0 6.90175369576206,12.4004531536776,0 6.88959009143629,12.4039114333388,0 6.88064626472617,12.387574043215,0 6.8753992197229,12.3768414511629,0 6.86371261948834,12.3664666121791,0 6.85591011229138,12.3440648666327,0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+        <Placemark>
+            <name>1521</name>
+            <styleUrl>#hospitalIcon</styleUrl>
+            <description>Adabka PHC</description>
+            <Point>
+                <coordinates>5.61819,11.890513</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>1521 Catchment Area</name>
+            <description>Adabka PHC</description>
+            <styleUrl>#catchmentArea</styleUrl>
+            <MultiGeometry>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <coordinates>5.64273237425411,11.9154065649932,0 5.58393469827294,11.9124481913589,0 5.5259646625347,11.8811354421404,0 5.5362309234203,11.8310929164164,0 5.53992889046314,11.7970716196223,0 5.53734031353315,11.7833891415638,0 5.60908087416426,11.7852381250852,0 5.62276335222277,11.8072410289901,0 5.67619897599182,11.8109389960329,0 5.72168397061876,11.8157463531886,0 5.72205376732304,11.861786042872,0 5.70633740739097,11.8627105346327,0 5.70541291563026,11.8743591308176,0 5.69727738813601,11.8743591308176,0 5.64273237425411,11.9154065649932,0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+        <Placemark>
+            <name>1522</name>
+            <styleUrl>#hospitalIcon</styleUrl>
+            <description>Zugu PHC</description>
+            <Point>
+                <coordinates>5.334207,11.860433</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>1522 Catchment Area</name>
+            <description>Zugu PHC</description>
+            <styleUrl>#catchmentArea</styleUrl>
+            <MultiGeometry>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <coordinates>5.24008053921551,11.8676399067014,0 5.28236868921893,11.7743817037012,0 5.30064134662782,11.7858810057059,0 5.30664521977645,11.7838367205305,0 5.30716729570242,11.7792370232546,0 5.36224630589206,11.7945690478854,0 5.39379931515479,11.8193871731914,0 5.40559623013803,11.8647121623376,0 5.40427341793249,11.8898638770188,0 5.37874028108625,11.9084899594383,0 5.34240742070527,11.9067222302706,0 5.32831137070413,11.9276660000019,0 5.31056078922121,11.9161726678692,0 5.24008053921551,11.8676399067014,0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+        <Placemark>
+            <name>1523</name>
+            <styleUrl>#hospitalIcon</styleUrl>
+            <description>Birnin Zauma PHC</description>
+            <Point>
+                <coordinates>5.412535,12.147387</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>1523 Catchment Area</name>
+            <description>Birnin Zauma PHC</description>
+            <styleUrl>#catchmentArea</styleUrl>
+            <MultiGeometry>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <coordinates>5.38113799929432,12.1358821142798,0 5.41344332907886,12.1365844040577,0 5.44048148552896,12.1350042520574,0 5.44072039624742,12.1450646904603,0 5.43855018863967,12.176439348955,0 5.44039369930672,12.1926798000695,0 5.45161741100562,12.2170016870132,0 5.42474104987402,12.2201451210637,0 5.42316933284878,12.2258033023545,0 5.39939753352037,12.2289355098548,0 5.39781738152004,12.1964546076258,0 5.39149677351871,12.1750347693991,0 5.38075280426894,12.1570443941239,0 5.38447387573946,12.1520347791721,0 5.38113799929432,12.1358821142798,0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+        <Placemark>
+            <name>1524</name>
+            <styleUrl>#hospitalIcon</styleUrl>
+            <description>Year Labe Dispensary MDG</description>
+            <Point>
+                <coordinates>6.700927,12.281982</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>1524 Catchment Area</name>
+            <description>Year Labe Dispensary MDG</description>
+            <styleUrl>#catchmentArea</styleUrl>
+            <MultiGeometry>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <coordinates>6.70302332727829,12.2662928514303,0 6.71401870569575,12.2655598262025,0 6.71196623505783,12.2884302133108,0 6.70610203323518,12.2994255917283,0 6.69921159609356,12.3151123316038,0 6.69364060436205,12.3136462811482,0 6.67208966266381,12.3117770668172,0 6.67531497366627,12.2994622429897,0 6.67075683968037,12.2903046086247,0 6.66989058698032,12.286487696457,0 6.67062361220815,12.2803302845433,0 6.67758735187254,12.2793040492243,0 6.70302332727829,12.2662928514303,0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+        <Placemark>
+            <name>1525</name>
+            <styleUrl>#hospitalIcon</styleUrl>
+            <description>Dangulbi PHC</description>
+            <Point>
+                <coordinates>6.247325,11.646722</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>1525 Catchment Area</name>
+            <description>Dangulbi PHC</description>
+            <styleUrl>#catchmentArea</styleUrl>
+            <MultiGeometry>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <coordinates>6.23293961310286,11.567623834224,0 6.31386559825542,11.603102255251,0 6.30331003497465,11.6092596671648,0 6.29451373224068,11.6080868268003,0 6.27310939558801,11.6306640038175,0 6.27091031990451,11.632863079501,0 6.26871124422102,11.652618109391,0 6.26816147530015,11.6537909497555,0 6.2657424920483,11.6530579245277,0 6.26237057600028,11.6536076934486,0 6.25947512635035,11.6511520589353,0 6.25745930697381,11.651591874072,0 6.25756926075799,11.6556601640865,0 6.25548013885867,11.655990025439,0 6.2540507396644,11.6548904875973,0 6.25416069344857,11.6506022900145,0 6.25236478164038,11.65074889506,0 6.24847974793288,11.6532411808347,0 6.24730690756835,11.6555868615637,0 6.24466801674816,11.651775130379,0 6.24320196629249,11.6489896345132,0 6.23766762582237,11.6495394034341,0 6.23337942823956,11.6486231218993,0 6.23107039877189,11.649246193343,0 6.22843150795169,11.6403399368248,0 6.22714871380299,11.6393870040286,0 6.22472973055115,11.6397168653812,0 6.22238404982209,11.6444448781007,0 6.21629994043109,11.6406697981774,0 6.21344114204255,11.633522802206,0 6.20860317553886,11.6377010460046,0 6.23293961310286,11.567623834224,0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+        <Placemark>
+            <name>1526</name>
+            <styleUrl>#hospitalIcon</styleUrl>
+            <description>Sauna Dispensary</description>
+            <Point>
+                <coordinates>6.04997,12.417695</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>1526 Catchment Area</name>
+            <description>Sauna Dispensary</description>
+            <styleUrl>#catchmentArea</styleUrl>
+            <MultiGeometry>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <coordinates>6.03830874168743,12.4603856471536,0 6.02414888553552,12.457107902674,0 6.0059246262289,12.4442591443139,0 5.94430303001227,12.4460291263329,0 5.95541450823054,12.4194903722414,0 5.95203569209119,12.3600232081888,0 5.99893366010542,12.3728627095183,0 6.01271922995399,12.386918584658,0 6.07829722433865,12.3939785439967,0 6.07508503474864,12.3988296058265,0 6.07574058364456,12.4025662345333,0 6.07128285115229,12.404860655669,0 6.07288068963112,12.4119214494387,0 6.07493316026905,12.4199847269449,0 6.07742544604367,12.4446143746,0 6.04238684015334,12.4579554337465,0 6.03830874168743,12.4603856471536,0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+        <Placemark>
+            <name>1527</name>
+            <styleUrl>#hospitalIcon</styleUrl>
+            <description>Gurbi Bore BHC</description>
+            <Point>
+                <coordinates>6.963902,12.552072</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>1527 Catchment Area</name>
+            <description>Gurbi Bore BHC</description>
+            <styleUrl>#catchmentArea</styleUrl>
+            <MultiGeometry>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <coordinates>7.01685968857516,12.9583567305511,0 7.05732268115144,12.9464817218603,0 7.05849552151597,12.9514662934095,0 7.04793995823521,12.9627548819181,0 7.04999242887313,12.9835727983885,0 7.04911279859973,12.9872379245277,0 7.0510186641921,12.9898768153479,0 7.05131187428323,12.9948613868971,0 7.00982264638798,12.995594412125,0 7.01685968857516,12.9583567305511,0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+        <Placemark>
+            <name>1528</name>
+            <styleUrl>#hospitalIcon</styleUrl>
+            <description>Kairu PHC</description>
+            <Point>
+                <coordinates>5.458048,11.76161</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>1528 Catchment Area</name>
+            <description>Kairu PHC</description>
+            <styleUrl>#catchmentArea</styleUrl>
+            <MultiGeometry>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <coordinates>5.42432031015769,11.7100519987329,0 5.43282340280053,11.7085859482772,0 5.43956723489658,11.7097587886417,0 5.4433789660813,11.7088791583683,0 5.45657342018227,11.6983235950876,0 5.45965212613916,11.6865951914423,0 5.51917377463905,11.700522670771,0 5.53735280028927,11.7066800826848,0 5.50788518613045,11.7247125032895,0 5.50993765676838,11.7314563353855,0 5.45862589082019,11.8308545562794,0 5.41523079733258,11.8285088755504,0 5.41376474687692,11.7065334776393,0 5.42432031015769,11.7100519987329,0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+        <Placemark>
+            <name>1601</name>
+            <styleUrl>#hospitalIcon</styleUrl>
+            <description>Kwalam MPHC</description>
+            <Point>
+                <coordinates>9.392158,12.269697</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>1601 Catchment Area</name>
+            <description>Kwalam MPHC</description>
+            <styleUrl>#catchmentArea</styleUrl>
+            <MultiGeometry>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <coordinates>9.3833280987285,12.2812718983364,0 9.36412283775932,12.2724755956025,0 9.36588209830611,12.2667579988254,0 9.34755646761033,12.2603073768205,0 9.35474011484308,12.2424215612614,0 9.3702802496731,12.2569354607724,0 9.38098241799944,12.2575218809547,0 9.38670001477652,12.2556160153624,0 9.39902439533486,12.2441225737054,0 9.40790919545101,12.2372226757428,0 9.4171938642543,12.2406623007146,0 9.42261825094025,12.2434477965804,0 9.429801898173,12.2617734272761,0 9.44387598254736,12.2749678813771,0 9.44050406649933,12.2831777639288,0 9.40106730924201,12.293586722164,0 9.3833280987285,12.2812718983364,0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+        <Placemark>
+            <name>1602</name>
+            <styleUrl>#hospitalIcon</styleUrl>
+            <description>Bosuwa BHC</description>
+            <Point>
+                <coordinates>9.564258,12.601423</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>1602 Catchment Area</name>
+            <description>Bosuwa BHC</description>
+            <styleUrl>#catchmentArea</styleUrl>
+            <MultiGeometry>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <coordinates>9.61739242144941,12.5778165876638,0 9.65081837183852,12.6127085885086,0 9.64993874156512,12.6388042866194,0 9.64695079395187,12.666251974356,0 9.62693014588201,12.6670388120531,0 9.61005684860043,12.6416851529253,0 9.59745413525241,12.6415897824851,0 9.5879248072906,12.6377780513004,0 9.56915936145812,12.6401237320295,0 9.55508527708376,12.6320604545233,0 9.54013156243601,12.6377780513004,0 9.53705285647911,12.6492132448546,0 9.51300962900625,12.6484802196268,0 9.51139697350502,12.6503860852191,0 9.48764695612329,12.6383644714827,0 9.48266238457404,12.6320604545233,0 9.48530127539423,12.6316206393866,0 9.49527041849273,12.6281021182931,0 9.49849572949519,12.622384521516,0 9.49864233454076,12.600393764681,0 9.4828089896196,12.592623697266,0 9.47679818275139,12.5923304871749,0 9.50978431800379,12.5775233775727,0 9.54394329362073,12.5917440669926,0 9.55054052067121,12.5943829578128,0 9.55508527708376,12.6025928403645,0 9.56666707568349,12.602446235319,0 9.56373497477217,12.5801622683929,0 9.58983067288296,12.5766437472993,0 9.61123500953563,12.5637425032895,0 9.61739242144941,12.5778165876638,0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+        <Placemark>
+            <name>1603</name>
+            <styleUrl>#hospitalIcon</styleUrl>
+            <description>Garin Chiroma HP</description>
+            <Point>
+                <coordinates>9.490933,12.438873</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>1603 Catchment Area</name>
+            <description>Garin Chiroma HP</description>
+            <styleUrl>#catchmentArea</styleUrl>
+            <MultiGeometry>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <coordinates>9.51902648801966,12.4189685037119,0 9.51770704260957,12.4241729828295,0 9.5301684714827,12.4349484536786,0 9.54270320287861,12.447996302734,0 9.51983281577028,12.4534206894199,0 9.49403032775061,12.46185047954,0 9.48809282340518,12.4527609667149,0 9.4832548569015,12.4480696052568,0 9.47914991562564,12.4413257731607,0 9.48501411744829,12.426372058513,0 9.50788450455662,12.4130309993664,0 9.51902648801966,12.4189685037119,0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+        <Placemark>
+            <name>1604</name>
+            <styleUrl>#hospitalIcon</styleUrl>
+            <description>Kanya Basic Obstetric EC</description>
+            <Point>
+                <coordinates>8.849053,12.441995</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>1604 Catchment Area</name>
+            <description>Kanya Basic Obstetric EC</description>
+            <styleUrl>#catchmentArea</styleUrl>
+            <MultiGeometry>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <coordinates>8.86736886272307,12.4661508521942,0 8.8716097082463,12.4680218134545,0 8.88133870679961,12.4698304093394,0 8.87815807265718,12.4434498555699,0 8.90142035765964,12.4463186628356,0 8.90260529979113,12.4536154117505,0 8.91233429834443,12.457357334271,0 8.90310422279386,12.4765658698763,0 8.8979278966405,12.4783744657612,0 8.88720105208173,12.4756927546215,0 8.87647420752296,12.4756927546215,0 8.87754963724894,12.480267210143,0 8.91752435084834,12.5212636416619,0 8.90705174217374,12.5392714199926,0 8.89376940922059,12.5455294422494,0 8.87499534245026,12.5254782280797,0 8.87026989707269,12.5161550520645,0 8.84613181122513,12.4975087000341,0 8.84332208694658,12.4927832546565,0 8.84472694908585,12.4853757997403,0 8.83080604243303,12.4769466269047,0 8.81816228317954,12.4741369026261,0 8.82940118029375,12.4577894159146,0 8.79851748834583,12.467023967449,0 8.79490029657601,12.4626583911751,0 8.80425510287727,12.4350928952741,0 8.8077475638964,12.4322240880083,0 8.81735183169902,12.4155101674168,0 8.81435829368262,12.4060306303648,0 8.81236260167169,12.400043554332,0 8.81336044767716,12.3961769010608,0 8.81697763944697,12.3953037858061,0 8.82994963751805,12.4006672080854,0 8.85152805738628,12.4203746666934,0 8.87772151502979,12.4278585117344,0 8.86200544044368,12.4577938918984,0 8.86200544044368,12.4577938918984,0 8.86736886272307,12.4661508521942,0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+        <Placemark>
+            <name>1605</name>
+            <styleUrl>#hospitalIcon</styleUrl>
+            <description>Lafiya PHC</description>
+            <Point>
+                <coordinates>10.54045,12.812307</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>1605 Catchment Area</name>
+            <description>Lafiya PHC</description>
+            <styleUrl>#catchmentArea</styleUrl>
+            <MultiGeometry>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <coordinates>10.5376595994373,12.7673443858144,0 10.5514166022507,12.7698206463208,0 10.5709515462457,12.7717466267146,0 10.5628349145858,12.7925197009628,0 10.554855852954,12.8065518438325,0 10.5455010910409,12.8167320259143,0 10.5377971694655,12.8172823060269,0 10.5122091442326,12.8134303452391,0 10.5017538220944,12.8044882934104,0 10.4717635559613,12.7808262485715,0 10.4830442982683,12.7480845818757,0 10.4955631708284,12.7542752331417,0 10.5016162520663,12.7614288746046,0 10.512621854317,12.7666565356737,0 10.5376595994373,12.7673443858144,0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+        <Placemark>
+            <name>1606</name>
+            <styleUrl>#hospitalIcon</styleUrl>
+            <description>Dawa BHC</description>
+            <Point>
+                <coordinates>10.378563,12.648762</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>1606 Catchment Area</name>
+            <description>Dawa BHC</description>
+            <styleUrl>#catchmentArea</styleUrl>
+            <MultiGeometry>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <coordinates>10.3652123567105,12.6486091239145,0 10.3623878263157,12.6193550591117,0 10.3646071001973,12.6042236462827,0 10.3230461529603,12.5890922334537,0 10.3276864528945,12.5614521860193,0 10.3932559084869,12.5927237725326,0 10.3976944562501,12.5909080029931,0 10.4015277475001,12.5886887291115,0 10.408790825658,12.5888904812826,0 10.4186766820397,12.5917150116774,0 10.4303783079608,12.613100741809,0 10.4156503994739,12.6516354064803,0 10.3759052217763,12.6556704499013,0 10.3652123567105,12.6486091239145,0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+        <Placemark>
+            <name>1607</name>
+            <styleUrl>#hospitalIcon</styleUrl>
+            <description>Musari PHC</description>
+            <Point>
+                <coordinates>10.438347,12.471712</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>1607 Catchment Area</name>
+            <description>Musari PHC</description>
+            <styleUrl>#catchmentArea</styleUrl>
+            <MultiGeometry>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <coordinates>10.4005524809259,12.4632647529375,0 10.4099648471644,12.4600451647628,0 10.4212233905664,12.4589089814837,0 10.431017058755,12.4555981704374,0 10.4333372087221,12.4440982966874,0 10.4353547304326,12.4423834032334,0 10.4507887715182,12.4391553684966,0 10.4688455908275,12.4787996701086,0 10.4740911472749,12.5084572392535,0 10.4638017865512,12.506641469714,0 10.4515957802025,12.4995801437271,0 10.4344468456629,12.4983696307008,0 10.4215347067155,12.5016985415232,0 10.4161882741825,12.5063388414574,0 10.4020656222088,12.498974887214,0 10.4005524809259,12.4632647529375,0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+        <Placemark>
+            <name>1608</name>
+            <styleUrl>#hospitalIcon</styleUrl>
+            <description>Ramfa BHC</description>
+            <Point>
+                <coordinates>9.986698,12.048225</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>1608 Catchment Area</name>
+            <description>Ramfa BHC</description>
+            <styleUrl>#catchmentArea</styleUrl>
+            <MultiGeometry>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <coordinates>10.0310098915315,12.0871384240929,0 10.0138893100502,12.0908369965767,0 10.0041345601365,12.0947301755182,0 9.96551371353932,12.0982339881,0 9.95456450445249,12.0661139885849,0 9.95098112693316,12.0550170936354,0 9.94938851470235,12.0428164688951,0 9.93983284131748,12.0199712559323,0 9.9426199127214,12.0133509736506,0 9.94401344842336,12.0057569199972,0 9.95118020346201,11.9995257417362,0 9.96093495337574,11.9958259114872,0 9.9762638460973,12.0003046468975,0 9.98004630014548,12.0119879541473,0 9.98522228989562,12.0147139862539,0 9.9898010500592,12.001083549808,0 10.0043336366654,11.9950469933867,0 10.011500391704,12.0063410855717,0 10.0097087029443,12.0186082699504,0 10.0045327131942,12.0302907828712,0 10.0059262488962,12.0448932101364,0 10.0310098915315,12.0871384240929,0 10.0310098915315,12.0871384240929,0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+        <Placemark>
+            <name>1609</name>
+            <styleUrl>#hospitalIcon</styleUrl>
+            <description>Unguwar Ya BHC</description>
+            <Point>
+                <coordinates>9.238158,11.430253</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>1609 Catchment Area</name>
+            <description>Unguwar Ya BHC</description>
+            <styleUrl>#catchmentArea</styleUrl>
+            <MultiGeometry>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <coordinates>9.23014899168282,11.433390380526,0 9.22783554660562,11.4264500452944,0 9.23439030765769,11.4206664326014,0 9.23464735711071,11.4146257704554,0 9.23246243676002,11.4124408501047,0 9.23233391203351,11.4046008417875,0 9.23181981312747,11.4016447730778,0 9.23631817855536,11.397917556009,0 9.24235884070138,11.3934191905811,0 9.25456868971994,11.3932906658545,0 9.26986313217477,11.3805667179299,0 9.27667494267987,11.3814663910155,0 9.28978446478401,11.3854506575374,0 9.29582512693003,11.3916198444099,0 9.28374380263798,11.3943188636666,0 9.27603231904731,11.3976605065559,0 9.25970967878039,11.4264500452944,0 9.23027751640933,11.444957605912,0 9.23014899168282,11.433390380526,0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+        <Placemark>
+            <name>1610</name>
+            <styleUrl>#hospitalIcon</styleUrl>
+            <description>Facawa HP</description>
+            <Point>
+                <coordinates>9.161125,12.218372</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>1610 Catchment Area</name>
+            <description>Facawa HP</description>
+            <styleUrl>#catchmentArea</styleUrl>
+            <MultiGeometry>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <coordinates>9.12636332204659,12.2326960148488,0 9.12433023975729,12.2238859915952,0 9.11924753403402,12.2099932626183,0 9.12331369861263,12.2076213332807,0 9.14499990969856,12.2099932626183,0 9.1698204559805,12.2160925094862,0 9.17295479117652,12.2257496503604,0 9.170582861839,12.2308323560836,0 9.16710967959476,12.2336278442314,0 9.1592314857237,12.2305782207975,0 9.1514380036147,12.2307476443216,0 9.14627058612938,12.239218820527,0 9.14601645084322,12.251671449549,0 9.15702897991029,12.2595496434201,0 9.16363649735053,12.2739506429693,0 9.15126858009059,12.2832689367953,0 9.11153876368707,12.2614980139473,0 9.11153876368707,12.2614133021853,0 9.12636332204659,12.2326960148488,0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+        <Placemark>
+            <name>1611</name>
+            <styleUrl>#hospitalIcon</styleUrl>
+            <description>Kampala HP</description>
+            <Point>
+                <coordinates>9.879128,12.57151</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>1611 Catchment Area</name>
+            <description>Kampala HP</description>
+            <styleUrl>#catchmentArea</styleUrl>
+            <MultiGeometry>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <coordinates>9.90994963467898,12.6036587683705,0 9.90136800209916,12.5973227966526,0 9.84225900012413,12.5795981162775,0 9.83504080449624,12.5812021597504,0 9.8284642262575,12.5797585206248,0 9.82252926540791,12.5767108380263,0 9.8249353306172,12.5693322380512,0 9.8319931218978,12.5666053641473,0 9.83119110016137,12.5606704032977,0 9.85332690008689,12.5491212902931,0 9.86776329134266,12.5513669511551,0 9.88364332172402,12.557462316352,0 9.87834997826356,12.5640388945907,0 9.88596918475967,12.5690916315302,0 9.89455081733949,12.5747859858589,0 9.90577912164953,12.5836082249597,0 9.92358400419832,12.5877787379891,0 9.90994963467898,12.6036587683705,0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+        <Placemark>
+            <name>1612</name>
+            <styleUrl>#hospitalIcon</styleUrl>
+            <description>Kaugama MPHC</description>
+            <Point>
+                <coordinates>9.73272,12.478562</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>1612 Catchment Area</name>
+            <description>Kaugama MPHC</description>
+            <styleUrl>#catchmentArea</styleUrl>
+            <MultiGeometry>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <coordinates>9.75634931004485,12.4551980216855,0 9.75982011532574,12.4615446370562,0 9.76854671146054,12.4734445408764,0 9.79194985564023,12.487327762,0 9.8010731152357,12.4916910600674,0 9.78857821622451,12.5055742811909,0 9.75168851438195,12.4845511177753,0 9.72947536058428,12.4819728052809,0 9.72590538943823,12.4706678966517,0 9.72233541829218,12.4502397284271,0 9.71836878368545,12.4369515024945,0 9.71618713465175,12.4226716179103,0 9.73364032692135,12.4210849640676,0 9.75069685573027,12.4258449255957,0 9.7415735961348,12.4429014544046,0 9.75634931004485,12.4551980216855,0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+        <Placemark>
+            <name>1613</name>
+            <styleUrl>#hospitalIcon</styleUrl>
+            <description>Tsagaiwa BHC</description>
+            <Point>
+                <coordinates>9.643095,12.322778</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>1613 Catchment Area</name>
+            <description>Tsagaiwa BHC</description>
+            <styleUrl>#catchmentArea</styleUrl>
+            <MultiGeometry>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <coordinates>9.62822651579706,12.3267988710507,0 9.61696628474273,12.3251150981828,0 9.6150720402663,12.3062778892228,0 9.61875529341491,12.2870197370457,0 9.63212024055416,12.2849150209608,0 9.66032343609211,12.2869145012415,0 9.66042867189636,12.2953333655812,0 9.65558782490104,12.3061726534185,0 9.66442763245771,12.3137496313242,0 9.64348570741274,12.3313240106333,0 9.62822651579706,12.3267988710507,0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+        <Placemark>
+            <name>1614</name>
+            <styleUrl>#hospitalIcon</styleUrl>
+            <description>Taraya BHC</description>
+            <Point>
+                <coordinates>9.515352,12.130408</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>1614 Catchment Area</name>
+            <description>Taraya BHC</description>
+            <styleUrl>#catchmentArea</styleUrl>
+            <MultiGeometry>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <coordinates>9.49477771342472,12.1032635528301,0 9.51685914374221,12.1053445253207,0 9.53998106030503,12.1102001277989,0 9.53882496447689,12.1172523123506,0 9.53420058116433,12.1262698598101,0 9.53801569739719,12.1277727843867,0 9.54830495026765,12.1422239822384,0 9.55003909400986,12.1460390984713,0 9.54899860776453,12.1495073859557,0 9.53131034159397,12.1489293380417,0 9.5225240133001,12.1459234888885,0 9.49339039843095,12.1282352227179,0 9.49477771342472,12.1032635528301,0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+        <Placemark>
+            <name>1615</name>
+            <styleUrl>#hospitalIcon</styleUrl>
+            <description>Beguwa BHC</description>
+            <Point>
+                <coordinates>8.987505,12.25742</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>1615 Catchment Area</name>
+            <description>Beguwa BHC</description>
+            <styleUrl>#catchmentArea</styleUrl>
+            <MultiGeometry>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <coordinates>9.00349654435276,12.263198507121,0 8.98990316137703,12.2612401383872,0 8.97942012874321,12.257093004598,0 8.97838334529591,12.2516786910398,0 8.99704544734733,12.2523698800047,0 9.00833486710683,12.2362421374911,0 9.00522451676492,12.2373941190993,0 8.99888861792031,12.2251831140533,0 9.00660689469466,12.2170040446357,0 9.00476372412168,12.2106681457911,0 9.01616834204199,12.2007611039613,0 9.03137449926907,12.2077881917708,0 9.04393109879749,12.2061754175194,0 9.0574092836124,12.2206903857816,0 9.05775487809484,12.2252983122141,0 9.05153417741103,12.2286390588776,0 9.05487492407456,12.2364725338128,0 9.04888461971237,12.2447668013912,0 9.02665137467581,12.2431540271398,0 9.00349654435276,12.263198507121,0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+        <Placemark>
+            <name>1616</name>
+            <styleUrl>#hospitalIcon</styleUrl>
+            <description>Garki PHC</description>
+            <Point>
+                <coordinates>9.186178,12.435907</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>1616 Catchment Area</name>
+            <description>Garki PHC</description>
+            <styleUrl>#catchmentArea</styleUrl>
+            <MultiGeometry>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <coordinates>9.16507933105398,12.4675140933035,0 9.18235905517566,12.4649797337656,0 9.18247425333647,12.4555334845791,0 9.17567756184861,12.4410185163169,0 9.14457405842959,12.4569158625089,0 9.1365101871728,12.4520775397548,0 9.14111811360525,12.4389449494223,0 9.11853927408625,12.4343370229899,0 9.12395358764438,12.419591658406,0 9.12821591959439,12.4186700731195,0 9.15759145060125,12.4281163223061,0 9.16081699910396,12.4243147829993,0 9.16208417887289,12.4187852712803,0 9.14503485107283,12.408647833129,0 9.14180930257012,12.4047310956614,0 9.14146370808768,12.4013903489979,0 9.16035620646072,12.4000079710681,0 9.16853527587832,12.3952848464749,0 9.16715289794858,12.3785811131572,0 9.19019253011082,12.3576150478896,0 9.20608987630277,12.3608405963923,0 9.21115859537846,12.3742035830464,0 9.2217568261731,12.3891793439519,0 9.22198722249472,12.3949392519924,0 9.22636475260554,12.3954000446357,0 9.23235505696772,12.4062286717519,0 9.25516429280835,12.4096846165763,0 9.25815944498944,12.4223564142655,0 9.22014405192174,12.4182092804763,0 9.21323216227307,12.4241995848385,0 9.21208018066495,12.4313418708088,0 9.24986517741103,12.442170497925,0 9.24779161051643,12.4536903140061,0 9.23811496500829,12.4615237889413,0 9.20286432780006,12.4557638809007,0 9.19318768229192,12.4619845815846,0 9.19111411539731,12.4737347939873,0 9.1653097273756,12.4718916234143,0 9.16507933105398,12.4675140933035,0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+        <Placemark>
+            <name>1617</name>
+            <styleUrl>#hospitalIcon</styleUrl>
+            <description>Bmaina BHC</description>
+            <Point>
+                <coordinates>9.563405,11.366097</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>1617 Catchment Area</name>
+            <description>Bmaina BHC</description>
+            <styleUrl>#catchmentArea</styleUrl>
+            <MultiGeometry>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <coordinates>9.55538352506484,11.3491190731195,0 9.56621215218109,11.343935155883,0 9.56770972827164,11.3249274593492,0 9.55941546069323,11.3167483899316,0 9.55976105517566,11.3153660120019,0 9.56978329516624,11.3154812101627,0 9.58706301928792,11.3295353857816,0 9.59650926847444,11.3367928699127,0 9.59282292732848,11.3470455062249,0 9.59109495491631,11.3511926400141,0 9.59570288134876,11.3613300781655,0 9.58717821744873,11.3693939494223,0 9.59489649422308,11.3771122261967,0 9.59339891813254,11.3817201526291,0 9.58867579353928,11.3840241158453,0 9.58245509285547,11.3839089176845,0 9.57600399585005,11.3799921802169,0 9.5425965292148,11.3779186133223,0 9.55054520231077,11.3590261149493,0 9.55538352506484,11.3491190731195,0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+        <Placemark>
+            <name>1618</name>
+            <styleUrl>#hospitalIcon</styleUrl>
+            <description>Jaudi HP</description>
+            <Point>
+                <coordinates>9.303082,11.662248</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>1618 Catchment Area</name>
+            <description>Jaudi HP</description>
+            <styleUrl>#catchmentArea</styleUrl>
+            <MultiGeometry>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <coordinates>9.32059697628507,11.6803897248029,0 9.30063760355724,11.6848733520099,0 9.27402510658681,11.6814021567528,0 9.27359120717968,11.6796665591243,0 9.26809514802274,11.6601410858036,0 9.2738804734511,11.6446653402828,0 9.29976980474299,11.6413387781615,0 9.31640261534951,11.6369997840902,0 9.33346932536316,11.6433636420614,0 9.33607272180592,11.6494382337612,0 9.3276839999348,11.6553681923252,0 9.32811789934193,11.6680959082676,0 9.33014276324185,11.6756168313245,0 9.32059697628507,11.6803897248029,0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+        <Placemark>
+            <name>1619</name>
+            <styleUrl>#hospitalIcon</styleUrl>
+            <description>Katsinawa MPHC</description>
+            <Point>
+                <coordinates>8.600712,12.642877</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>1619 Catchment Area</name>
+            <description>Katsinawa MPHC</description>
+            <styleUrl>#catchmentArea</styleUrl>
+            <MultiGeometry>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <coordinates>8.5812025266793,12.632137198254,0 8.60492236093556,12.6136241568832,0 8.61323469883679,12.620794694709,0 8.62450566057156,12.624791954394,0 8.62502636679909,12.6314140325754,0 8.62560489934193,12.6353191272396,0 8.62010884018499,12.6447202810607,0 8.62097663899924,12.6487700088605,0 8.62242297035633,12.6541214348817,0 8.61808397628507,12.6557123993745,0 8.58814491719333,12.6450095473321,0 8.5812025266793,12.632137198254,0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+        <Placemark>
+            <name>1620</name>
+            <styleUrl>#hospitalIcon</styleUrl>
+            <description>Kirikasamma PHC</description>
+            <Point>
+                <coordinates>10.249882,12.694785</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>1620 Catchment Area</name>
+            <description>Kirikasamma PHC</description>
+            <styleUrl>#catchmentArea</styleUrl>
+            <MultiGeometry>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <coordinates>10.2263064226743,12.6552442493056,0 10.2507355769459,12.6578654031974,0 10.2755841158402,12.6556636339283,0 10.289738346856,12.6660434033399,0 10.2873268852755,12.674326249638,0 10.2951903469509,12.6984408654426,0 10.2779955774207,12.7086109425428,0 10.2598571924894,12.7065140194294,0 10.2104746531678,12.6892144037434,0 10.2263064226743,12.6552442493056,0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+        <Placemark>
+            <name>1621</name>
+            <styleUrl>#hospitalIcon</styleUrl>
+            <description>Buju Dispensary</description>
+            <Point>
+                <coordinates>9.144763,11.794698</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>1621 Catchment Area</name>
+            <description>Buju Dispensary</description>
+            <styleUrl>#catchmentArea</styleUrl>
+            <MultiGeometry>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <coordinates>9.14079584608445,11.7881481152705,0 9.14173946148551,11.786051192157,0 9.14278792304223,11.772945422698,0 9.14834476929286,11.765920730268,0 9.17088669276239,11.7664449610463,0 9.18011315446154,11.7683321918484,0 9.20099108415899,11.7834573785307,0 9.18971886828361,11.7904354169298,0 9.18939680497288,11.7968766831443,0 9.18577484686785,11.7996811923944,0 9.17749200056974,11.8134160387875,0 9.14377116928681,11.826506507731,0 9.13932799990504,11.7937049615211,0 9.14079584608445,11.7881481152705,0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+        <Placemark>
+            <name>1622</name>
+            <styleUrl>#hospitalIcon</styleUrl>
+            <description>Kwazalewa BHC</description>
+            <Point>
+                <coordinates>9.826187,12.194603</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>1622 Catchment Area</name>
+            <description>Kwazalewa BHC</description>
+            <styleUrl>#catchmentArea</styleUrl>
+            <MultiGeometry>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <coordinates>9.81728707676786,12.1930100384314,0 9.81539984596576,12.1888161922045,0 9.81330292285232,12.1837835767322,0 9.81078661511618,12.1770734227692,0 9.80806061506871,12.1688954226268,0 9.80323769190778,12.1621852686638,0 9.7891883070477,12.1502328069171,0 9.78184907615065,12.1462486530016,0 9.77765522992376,12.1393288067272,0 9.77430015294225,12.1328283450755,0 9.77954246072586,12.1311508065848,0 9.78646230700022,12.1307314219621,0 9.83196553856198,12.1730892688537,0 9.83909507714769,12.1810575766848,0 9.84685369266743,12.1879774229591,0 9.86593569299978,12.2076885002255,0 9.87809784705776,12.2074788079142,0 9.88543707795482,12.2152374234339,0 9.88921153955902,12.2265608082465,0 9.87012953922667,12.2282383467373,0 9.83636907710021,12.2129308080091,0 9.83364307705273,12.2072691156028,0 9.82106153837206,12.2016074231965,0 9.82043246143803,12.2020268078192,0 9.81728707676786,12.1930100384314,0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+        <Placemark>
+            <name>1623</name>
+            <styleUrl>#hospitalIcon</styleUrl>
+            <description>Dingaya HP</description>
+            <Point>
+                <coordinates>10.051795,11.218112</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>1623 Catchment Area</name>
+            <description>Dingaya HP</description>
+            <styleUrl>#catchmentArea</styleUrl>
+            <MultiGeometry>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <coordinates>10.0179772804882,11.1799649171901,0 10.0847517402452,11.1825414236759,0 10.1135588485865,11.1904640807885,0 10.1324311566075,11.2080782349414,0 10.1163139446963,11.242230490597,0 10.1017137412768,11.2510335544235,0 10.0770222207878,11.2518923899188,0 10.0166810007453,11.2479197740969,0 9.98748862040619,11.1911297786286,0 9.98748862040619,11.190700360881,0 10.0179772804882,11.1799649171901,0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+        <Placemark>
+            <name>1624</name>
+            <styleUrl>#hospitalIcon</styleUrl>
+            <description>Kafin Fulani HP</description>
+            <Point>
+                <coordinates>9.735633,11.344657</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>1624 Catchment Area</name>
+            <description>Kafin Fulani HP</description>
+            <styleUrl>#catchmentArea</styleUrl>
+            <MultiGeometry>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <coordinates>9.69563348054967,11.3433285199829,0 9.71429138424287,11.3386367691267,0 9.74490646169916,11.3326605382534,0 9.74647915403424,11.3490165385382,0 9.74684787137596,11.36128378958,0 9.70203797454982,11.3660644736834,0 9.69563348054967,11.3433285199829,0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+        <Placemark>
+            <name>1625</name>
+            <styleUrl>#hospitalIcon</styleUrl>
+            <description>Danfusan BHC</description>
+            <Point>
+                <coordinates>9.87187,11.9416</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>1625 Catchment Area</name>
+            <description>Danfusan BHC</description>
+            <styleUrl>#catchmentArea</styleUrl>
+            <MultiGeometry>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <coordinates>9.83716876862816,11.9340146537138,0 9.82542599919287,11.926256038194,0 9.81435366560227,11.9069391087119,0 9.80959422968636,11.888196883685,0 9.81221538357817,11.8847369605478,0 9.81619953749371,11.8867290375056,0 9.83339430702396,11.8905034991098,0 9.8411529225437,11.8974233453842,0 9.84975030730883,11.9046577301255,0 9.8585573843853,11.9118921148669,0 9.86975563873573,11.9208644695265,0 9.88067992323214,11.932337115223,0 9.88898080978515,11.9367766036797,0 9.89143226961432,11.9357394475982,0 9.89774949302027,11.9377194728448,0 9.89463802477555,11.9497881981577,0 9.88794365370357,11.9596883243909,0 9.8784206751364,11.9634598010511,0 9.86248618624677,11.9647798178822,0 9.85656530742752,11.9599116541648,0 9.84849215344076,11.950894884777,0 9.83748330709518,11.9370551922283,0 9.83716876862816,11.9340146537138,0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+        <Placemark>
+            <name>1626</name>
+            <styleUrl>#hospitalIcon</styleUrl>
+            <description>Yanduna HC</description>
+            <Point>
+                <coordinates>9.683357,12.169145</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>1626 Catchment Area</name>
+            <description>Yanduna HC</description>
+            <styleUrl>#catchmentArea</styleUrl>
+            <MultiGeometry>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <coordinates>9.67286576775397,12.1398994415868,0 9.68499681912462,12.1421538847619,0 9.69133073090221,12.1411876948297,0 9.69143808533912,12.1462333533644,0 9.68413798362935,12.1497760497824,0 9.67157751451107,12.1528893284527,0 9.6771599452303,12.1662012786293,0 9.69938231367034,12.1710322282902,0 9.69691316162145,12.1746822791451,0 9.69728890215063,12.1777955578155,0 9.69820141486435,12.1786543933107,0 9.69616168056309,12.1833779885347,0 9.69347781964038,12.1855250772729,0 9.69412194626183,12.1883162926325,0 9.68188354045427,12.1868133305158,0 9.66663921041328,12.1873501027003,0 9.65697731109152,12.1826265074763,0 9.65354196911045,12.1707101649795,0 9.6605200075095,12.1499907586562,0 9.65826556433442,12.1448377456846,0 9.66223767850003,12.1353905552366,0 9.66234503293694,12.1352832007997,0 9.67286576775397,12.1398994415868,0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+        <Placemark>
+            <name>1627</name>
+            <styleUrl>#hospitalIcon</styleUrl>
+            <description>Margadu PHC</description>
+            <Point>
+                <coordinates>10.377433,12.831553</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>1627 Catchment Area</name>
+            <description>Margadu PHC</description>
+            <styleUrl>#catchmentArea</styleUrl>
+            <MultiGeometry>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <coordinates>10.3259249174204,12.8116894564093,0 10.3357307567371,12.8086722750811,0 10.3623196671919,12.8064093890849,0 10.3670340130173,12.8181009667318,0 10.3764627046679,12.8186666882308,0 10.3815541981593,12.8171580975667,0 10.3936229234722,12.8369583500331,0 10.3855142486526,12.8412955481924,0 10.3313935585778,12.8467641893498,0 10.3259249174204,12.8116894564093,0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+        <Placemark>
+            <name>1628</name>
+            <styleUrl>#hospitalIcon</styleUrl>
+            <description>Ganji HP</description>
+            <Point>
+                <coordinates>9.896785,11.155155</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>1628 Catchment Area</name>
+            <description>Ganji HP</description>
+            <styleUrl>#catchmentArea</styleUrl>
+            <MultiGeometry>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <coordinates>9.88392807118434,11.1472465178914,0 9.87901205710002,11.1330299366206,0 9.88459239741195,11.1190790858407,0 9.93747276512979,11.1302397664646,0 9.94544467986112,11.135952972022,0 9.9680317715999,11.1556170283593,0 9.94384276660795,11.1600059847766,0 9.91898764853591,11.1770768076283,0 9.87487664228718,11.186090202094,0 9.88419380167539,11.1562813545869,0 9.88392807118434,11.1472465178914,0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+        <Placemark>
+            <name>1629</name>
+            <styleUrl>#hospitalIcon</styleUrl>
+            <description>Hadin HP</description>
+            <Point>
+                <coordinates>9.84373,12.338533</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>1629 Catchment Area</name>
+            <description>Hadin HP</description>
+            <styleUrl>#catchmentArea</styleUrl>
+            <MultiGeometry>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <coordinates>9.76334488456708,12.3429159573657,0 9.76394277817193,12.3423180637608,0 9.7691245227473,12.3367377234489,0 9.76872592701073,12.3313566810052,0 9.75298139541635,12.2916964052169,0 9.77849152255662,12.2847209798269,0 9.7954318413607,12.3128219792549,0 9.82393143652521,12.304451468787,0 9.82851528749573,12.3056472559967,0 9.82831598962744,12.3098325112306,0 9.82552581947148,12.315014255806,0 9.82552581947148,12.317804425962,0 9.83927737238302,12.3253777449567,0 9.83867947877818,12.3279686172444,0 9.84047315959273,12.3331503618198,0 9.84445911695839,12.3359405319757,0 9.84665139350951,12.3367377234489,0 9.86020364855277,12.3321538724784,0 9.86000435068449,12.3365384255806,0 9.85243103168972,12.3476991062045,0 9.84764788285093,12.3514857657018,0 9.83569001075393,12.3578632974869,0 9.82751879815431,12.3568668081455,0 9.81177426655993,12.3594576804332,0 9.80659252198456,12.3626464463257,0 9.80320445822375,12.3640415314037,0 9.78845641597078,12.3692232759791,0 9.7619497994891,12.3540766379895,0 9.76334488456708,12.3429159573657,0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+        <Placemark>
+            <name>1630</name>
+            <styleUrl>#hospitalIcon</styleUrl>
+            <description>Gidan Malu HP</description>
+            <Point>
+                <coordinates>9.674217,11.8284</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>1630 Catchment Area</name>
+            <description>Gidan Malu HP</description>
+            <styleUrl>#catchmentArea</styleUrl>
+            <MultiGeometry>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <coordinates>9.66391788329364,11.8312710407842,0 9.62016237681597,11.8359775154306,0 9.59667942320508,11.836506465843,0 9.58584417535281,11.8345364207789,0 9.58607148824482,11.8203672505106,0 9.59410321042902,11.8204430214746,0 9.60651873112922,11.8074534838962,0 9.66935415739608,11.7845085543716,0 9.67324848029704,11.7933497198765,0 9.67566927561385,11.812716082411,0 9.67609028349504,11.830819421302,0 9.67072243300993,11.8313456811534,0 9.66391788329364,11.8312710407842,0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+    </Document>
+
+</kml>
