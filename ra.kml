@@ -25000,5 +25000,136 @@
           </Polygon>
             </MultiGeometry>
         </Placemark>
+         <Placemark>
+            <name>2B281</name>
+            <MultiGeometry>
+            <Polygon>
+              <outerBoundaryIs>
+                 <LinearRing>
+                     <coordinates>
+                     7.71738805017881,13.2823421292136 7.71738805017881,13.2735991207471 7.72637120302001,13.2735991207471 7.72637120302001,13.2823421292136 7.71738805017881,13.2823421292136
+                     </coordinates>
+                  </LinearRing>
+              </outerBoundaryIs>
+          </Polygon>
+            </MultiGeometry>
+        </Placemark><Placemark>
+            <name>2B506</name>
+            <MultiGeometry>
+            <Polygon>
+              <outerBoundaryIs>
+                 <LinearRing>
+                     <coordinates>
+                     8.3012929848565,13.1599114395496 8.29230983201531,13.1599114395496 8.29230983201531,13.1515336104979 8.30102400700002,13.156924965 8.3012929848565,13.1569438662419 8.3012929848565,13.1599114395496
+                     </coordinates>
+                  </LinearRing>
+              </outerBoundaryIs>
+          </Polygon>
+            </MultiGeometry>
+        </Placemark><Placemark>
+            <name>2B507</name>
+            <MultiGeometry>
+            <Polygon>
+              <outerBoundaryIs>
+                 <LinearRing>
+                     <coordinates>
+                     8.28332667917411,13.1686585246021 8.27434352633292,13.1686585246021 8.27434352633292,13.1599114395496 8.28332667917411,13.1599114395496 8.28332667917411,13.1686585246021
+                     </coordinates>
+                  </LinearRing>
+              </outerBoundaryIs>
+          </Polygon>
+            </MultiGeometry>
+        </Placemark><Placemark>
+            <name>2B511</name>
+            <MultiGeometry>
+            <Polygon>
+              <outerBoundaryIs>
+                 <LinearRing>
+                     <coordinates>
+                     8.25637722065053,13.2036437386026 8.24739406780933,13.2036437386026 8.24739406780933,13.1948979044192 8.25637722065053,13.1948979044192 8.25637722065053,13.2036437386026
+                     </coordinates>
+                  </LinearRing>
+              </outerBoundaryIs>
+          </Polygon>
+            </MultiGeometry>
+        </Placemark><Placemark>
+            <name>2B512</name>
+            <MultiGeometry>
+            <Polygon>
+              <outerBoundaryIs>
+                 <LinearRing>
+                     <coordinates>
+                     8.26536037349172,13.1948979044192 8.25637722065053,13.1948979044192 8.25637722065053,13.1861517572295 8.26536037349172,13.1861517572295 8.26536037349172,13.1948979044192
+                     </coordinates>
+                  </LinearRing>
+              </outerBoundaryIs>
+          </Polygon>
+            </MultiGeometry>
+        </Placemark><Placemark>
+            <name>2B514</name>
+            <MultiGeometry>
+            <Polygon>
+              <outerBoundaryIs>
+                 <LinearRing>
+                     <coordinates>
+                     8.27434352633292,13.1948979044192 8.26536037349172,13.1948979044192 8.26536037349172,13.1861517572295 8.27434352633292,13.1861517572295 8.27434352633292,13.1948979044192
+                     </coordinates>
+                  </LinearRing>
+              </outerBoundaryIs>
+          </Polygon>
+            </MultiGeometry>
+        </Placemark><Placemark>
+            <name>2B519</name>
+            <MultiGeometry>
+            <Polygon>
+              <outerBoundaryIs>
+                 <LinearRing>
+                     <coordinates>
+                     8.13959623371499,13.2386239414239 8.13061308087379,13.2386239414239 8.13061308087379,13.2298793611905 8.13959623371499,13.2298793611905 8.13959623371499,13.2386239414239
+                     </coordinates>
+                  </LinearRing>
+              </outerBoundaryIs>
+          </Polygon>
+            </MultiGeometry>
+        </Placemark><Placemark>
+            <name>2B521</name>
+            <MultiGeometry>
+            <Polygon>
+              <outerBoundaryIs>
+                 <LinearRing>
+                     <coordinates>
+                     8.18451199792096,13.2123892595874 8.17703332413277,13.2123892595874 8.17552884507977,13.2114838847502 8.17552884507977,13.2036437386026 8.18451199792096,13.2036437386026 8.18451199792096,13.2123892595874
+                     </coordinates>
+                  </LinearRing>
+              </outerBoundaryIs>
+          </Polygon>
+            </MultiGeometry>
+        </Placemark><Placemark>
+            <name>1B679</name>
+            <MultiGeometry>
+            <Polygon>
+              <outerBoundaryIs>
+                 <LinearRing>
+                     <coordinates>
+                     9.97215941331881,11.9850556329054 9.97215941331881,11.9762681536416 9.98114256616001,11.9762681536416 9.98114256616001,11.9850556329054 9.97215941331881,11.9850556329054
+                     </coordinates>
+                  </LinearRing>
+              </outerBoundaryIs>
+          </Polygon>
+            </MultiGeometry>
+        </Placemark><Placemark>
+            <name>1B680</name>
+            <MultiGeometry>
+            <Polygon>
+              <outerBoundaryIs>
+                 <LinearRing>
+                     <coordinates>
+                     9.92724364911284,11.958692337621 9.92724364911284,11.9499040012591 9.92728195487169,11.9499040012591 9.92797345700006,11.950159851 9.93035353300007,11.9500843220001 9.93065063200004,11.951479492 9.93148251100007,11.951828283 9.93267091000007,11.951363228 9.93267686500008,11.9499256290001 9.932736449317,11.9499040012591 9.93395641302741,11.9499040012591 9.93433466800008,11.9503749830001 9.93451292800006,11.952002678 9.93622680195403,11.952002678 9.93622680195403,11.958692337621 9.92724364911284,11.958692337621
+                     </coordinates>
+                  </LinearRing>
+              </outerBoundaryIs>
+          </Polygon>
+            </MultiGeometry>
+        </Placemark>
     </Document>
 </kml>
