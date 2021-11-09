@@ -29477,5 +29477,32 @@
           </Polygon>
             </MultiGeometry>
         </Placemark>
+        <Placemark>
+            <name>2B487</name>
+            <MultiGeometry>
+            <Polygon>
+              <outerBoundaryIs>
+                 <LinearRing>
+                     <coordinates>
+                     7.60959021608447,12.7134003469944 7.60959021608447,12.7046372820693 7.61857336892567,12.7046372820693 7.61857336892567,12.7134003469944 7.60959021608447,12.7134003469944
+                     </coordinates>
+                  </LinearRing>
+              </outerBoundaryIs>
+          </Polygon>
+            </MultiGeometry>
+        </Placemark><Placemark>
+            <name>1B654</name>
+            <MultiGeometry>
+            <Polygon>
+              <outerBoundaryIs>
+                 <LinearRing>
+                     <coordinates>
+                     10.1338561644603,12.3012128163791 10.1338561644603,12.2924357606049 10.1428393173015,12.2924357606049 10.1428393173015,12.3012128163791 10.1338561644603,12.3012128163791
+                     </coordinates>
+                  </LinearRing>
+              </outerBoundaryIs>
+          </Polygon>
+            </MultiGeometry>
+        </Placemark>
     </Document>
 </kml>
