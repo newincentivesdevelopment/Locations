@@ -30388,5 +30388,45 @@
           </Polygon>
             </MultiGeometry>
         </Placemark>
+        <Placemark>
+            <name>2B522</name>
+            <MultiGeometry>
+            <Polygon>
+              <outerBoundaryIs>
+                 <LinearRing>
+                     <coordinates>
+                     8.27434352633292,13.1861517572295 8.26536037349172,13.1861517572295 8.26536037349172,13.1774052972263 8.27434352633292,13.1774052972263 8.27434352633292,13.1861517572295
+                     </coordinates>
+                  </LinearRing>
+              </outerBoundaryIs>
+          </Polygon>
+            </MultiGeometry>
+        </Placemark><Placemark>
+            <name>2B523</name>
+            <MultiGeometry>
+            <Polygon>
+              <outerBoundaryIs>
+                 <LinearRing>
+                     <coordinates>
+                     8.14857938655618,13.2735991207471 8.13959623371499,13.2735991207471 8.13959623371499,13.2648557975426 8.14857938655618,13.2648557975426 8.14857938655618,13.2735991207471
+                     </coordinates>
+                  </LinearRing>
+              </outerBoundaryIs>
+          </Polygon>
+            </MultiGeometry>
+        </Placemark><Placemark>
+            <name>2B524</name>
+            <MultiGeometry>
+            <Polygon>
+              <outerBoundaryIs>
+                 <LinearRing>
+                     <coordinates>
+                     8.29085415107255,13.1948979044192 8.28332667917411,13.1948979044192 8.28332667917411,13.1861517572295 8.29230983201531,13.1861517572295 8.29230983201531,13.1935216873356 8.29106358227143,13.194699906293 8.29085415107255,13.1948979044192
+                     </coordinates>
+                  </LinearRing>
+              </outerBoundaryIs>
+          </Polygon>
+            </MultiGeometry>
+        </Placemark>
     </Document>
 </kml>
