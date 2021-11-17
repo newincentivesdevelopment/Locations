@@ -30375,6 +30375,19 @@
               </outerBoundaryIs>
           </Polygon>
             </MultiGeometry>
+        </Placemark><Placemark>
+            <name>1B534</name>
+            <MultiGeometry>
+            <Polygon>
+              <outerBoundaryIs>
+                 <LinearRing>
+                     <coordinates>
+                     9.97215941331881,12.2661028361761 9.97215941331881,12.2573246096518 9.98114256616001,12.2573246096518 9.98114256616001,12.2661028361761 9.97215941331881,12.2661028361761
+                     </coordinates>
+                  </LinearRing>
+              </outerBoundaryIs>
+          </Polygon>
+            </MultiGeometry>
         </Placemark>
     </Document>
 </kml>
