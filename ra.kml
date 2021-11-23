@@ -32854,6 +32854,123 @@
               </outerBoundaryIs>
           </Polygon>
             </MultiGeometry>
+        </Placemark><Placemark>
+            <name>3B242</name>
+            <MultiGeometry>
+            <Polygon>
+              <outerBoundaryIs>
+                 <LinearRing>
+                     <coordinates>
+                     9.30740610307037,12.3801931018029 9.29842295022917,12.3801931018029 9.29842295022917,12.3714186916898 9.30740610307037,12.3714186916898 9.30740610307037,12.3801931018029
+                     </coordinates>
+                  </LinearRing>
+              </outerBoundaryIs>
+          </Polygon>
+            </MultiGeometry>
+        </Placemark><Placemark>
+            <name>1B805</name>
+            <MultiGeometry>
+            <Polygon>
+              <outerBoundaryIs>
+                 <LinearRing>
+                     <coordinates>
+                     10.0959654983819,12.2573246096518 10.0889404002544,12.2573246096518 10.0889404002544,12.2485460909308 10.0979235530955,12.2485460909308 10.0979235530955,12.2569826955952 10.0969718170001,12.257136669 10.0959654983819,12.2573246096518
+                     </coordinates>
+                  </LinearRing>
+              </outerBoundaryIs>
+          </Polygon>
+            </MultiGeometry>
+        </Placemark><Placemark>
+            <name>1B806</name>
+            <MultiGeometry>
+            <Polygon>
+              <outerBoundaryIs>
+                 <LinearRing>
+                     <coordinates>
+                     10.0889404002544,12.2573246096518 10.0799572474132,12.2573246096518 10.0799572474132,12.2485460909308 10.0889404002544,12.2485460909308 10.0889404002544,12.2573246096518
+                     </coordinates>
+                  </LinearRing>
+              </outerBoundaryIs>
+          </Polygon>
+            </MultiGeometry>
+        </Placemark><Placemark>
+            <name>1B807</name>
+            <MultiGeometry>
+            <Polygon>
+              <outerBoundaryIs>
+                 <LinearRing>
+                     <coordinates>
+                     10.1158898587779,12.2397672802092 10.1069067059367,12.2397672802092 10.1069067059367,12.2309881776836 10.1158898587779,12.2309881776836 10.1158898587779,12.2397672802092
+                     </coordinates>
+                  </LinearRing>
+              </outerBoundaryIs>
+          </Polygon>
+            </MultiGeometry>
+        </Placemark><Placemark>
+            <name>1B808</name>
+            <MultiGeometry>
+            <Polygon>
+              <outerBoundaryIs>
+                 <LinearRing>
+                     <coordinates>
+                     10.1248730116191,12.2661028361761 10.1158898587779,12.2661028361761 10.1158898587779,12.2573246096518 10.1248730116191,12.2573246096518 10.1248730116191,12.2661028361761
+                     </coordinates>
+                  </LinearRing>
+              </outerBoundaryIs>
+          </Polygon>
+            </MultiGeometry>
+        </Placemark><Placemark>
+            <name>1B809</name>
+            <MultiGeometry>
+            <Polygon>
+              <outerBoundaryIs>
+                 <LinearRing>
+                     <coordinates>
+                     10.0619909417308,12.2748807703072 10.0530077888896,12.2748807703072 10.0530077888896,12.2684495701973 10.0570021074612,12.2661028361761 10.0619909417308,12.2661028361761 10.0619909417308,12.2748807703072
+                     </coordinates>
+                  </LinearRing>
+              </outerBoundaryIs>
+          </Polygon>
+            </MultiGeometry>
+        </Placemark><Placemark>
+            <name>1B810</name>
+            <MultiGeometry>
+            <Polygon>
+              <outerBoundaryIs>
+                 <LinearRing>
+                     <coordinates>
+                     10.0799572474132,12.2748807703072 10.070974094572,12.2748807703072 10.070974094572,12.2661028361761 10.0799572474132,12.2661028361761 10.0799572474132,12.2748807703072
+                     </coordinates>
+                  </LinearRing>
+              </outerBoundaryIs>
+          </Polygon>
+            </MultiGeometry>
+        </Placemark><Placemark>
+            <name>1B811</name>
+            <MultiGeometry>
+            <Polygon>
+              <outerBoundaryIs>
+                 <LinearRing>
+                     <coordinates>
+                     10.1049949967159,12.2661028361761 10.0979235530955,12.2661028361761 10.0979235530955,12.2573246096518 10.1040888887747,12.2573246096518 10.104367084,12.2620366890001 10.1049949967159,12.2661028361761
+                     </coordinates>
+                  </LinearRing>
+              </outerBoundaryIs>
+          </Polygon>
+            </MultiGeometry>
+        </Placemark><Placemark>
+            <name>1B812</name>
+            <MultiGeometry>
+            <Polygon>
+              <outerBoundaryIs>
+                 <LinearRing>
+                     <coordinates>
+                     10.0889404002544,12.2748807703072 10.0799572474132,12.2748807703072 10.0799572474132,12.2661028361761 10.0889404002544,12.2661028361761 10.0889404002544,12.2748807703072
+                     </coordinates>
+                  </LinearRing>
+              </outerBoundaryIs>
+          </Polygon>
+            </MultiGeometry>
         </Placemark>
     </Document>
 </kml>
