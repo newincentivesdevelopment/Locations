@@ -32971,6 +32971,19 @@
               </outerBoundaryIs>
           </Polygon>
             </MultiGeometry>
+        </Placemark><Placemark>
+            <name>3B243</name>
+            <MultiGeometry>
+            <Polygon>
+              <outerBoundaryIs>
+                 <LinearRing>
+                     <coordinates>
+                     10.2506371513959,11.2018729078333 10.2416539985547,11.2018729078333 10.2416539985547,11.1930607606175 10.2506371513959,11.1930607606175 10.2506371513959,11.2018729078333
+                     </coordinates>
+                  </LinearRing>
+              </outerBoundaryIs>
+          </Polygon>
+            </MultiGeometry>
         </Placemark>
     </Document>
 </kml>
