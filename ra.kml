@@ -32997,6 +32997,32 @@
               </outerBoundaryIs>
           </Polygon>
             </MultiGeometry>
+        </Placemark><Placemark>
+            <name>1B813</name>
+            <MultiGeometry>
+            <Polygon>
+              <outerBoundaryIs>
+                 <LinearRing>
+                     <coordinates>
+                     10.0799572474132,12.2485460909308 10.070974094572,12.2485460909308 10.070974094572,12.2423655926276 10.0737348144336,12.2397672802092 10.0799572474132,12.2397672802092 10.0799572474132,12.2485460909308
+                     </coordinates>
+                  </LinearRing>
+              </outerBoundaryIs>
+          </Polygon>
+            </MultiGeometry>
+        </Placemark><Placemark>
+            <name>1B814</name>
+            <MultiGeometry>
+            <Polygon>
+              <outerBoundaryIs>
+                 <LinearRing>
+                     <coordinates>
+                     10.0799572474132,12.2661028361761 10.070974094572,12.2661028361761 10.070974094572,12.2619919758278 10.0799572474132,12.2603143019228 10.0799572474132,12.2661028361761
+                     </coordinates>
+                  </LinearRing>
+              </outerBoundaryIs>
+          </Polygon>
+            </MultiGeometry>
         </Placemark>
     </Document>
 </kml>
