@@ -22,6 +22,22 @@
 	<SimpleField name="Timestamp_3" type="string"></SimpleField>
 	<SimpleField name="GlobalID_3" type="string"></SimpleField>
 	<SimpleField name="AMAPCODE_3" type="string"></SimpleField>
+	<SimpleField name="OBJECTID_4" type="float"></SimpleField>
+	<SimpleField name="LGACode_4" type="string"></SimpleField>
+	<SimpleField name="LGAName_4" type="string"></SimpleField>
+	<SimpleField name="StateCode_4" type="string"></SimpleField>
+	<SimpleField name="Source_4" type="string"></SimpleField>
+	<SimpleField name="Timestamp_4" type="string"></SimpleField>
+	<SimpleField name="GlobalID_4" type="string"></SimpleField>
+	<SimpleField name="AMAPCODE_4" type="string"></SimpleField>
+	<SimpleField name="OBJECTID_5" type="float"></SimpleField>
+	<SimpleField name="LGACode_5" type="string"></SimpleField>
+	<SimpleField name="LGAName_5" type="string"></SimpleField>
+	<SimpleField name="StateCode_5" type="string"></SimpleField>
+	<SimpleField name="Source_5" type="string"></SimpleField>
+	<SimpleField name="Timestamp_5" type="string"></SimpleField>
+	<SimpleField name="GlobalID_5" type="string"></SimpleField>
+	<SimpleField name="AMAPCODE_5" type="string"></SimpleField>
 </Schema>
 <Folder><name>LGAs</name>
   <Placemark>
