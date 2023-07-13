@@ -14,20 +14,8 @@
               </outerBoundaryIs>
           </Polygon>
             </MultiGeometry>
-        </Placemark><Placemark>
-            <name>21B231, 2D195</name>
-            <MultiGeometry>
-            <Polygon>
-              <outerBoundaryIs>
-                 <LinearRing>
-                     <coordinates>
-                     
-                     </coordinates>
-                  </LinearRing>
-              </outerBoundaryIs>
-          </Polygon>
-            </MultiGeometry>
-        </Placemark><Placemark>
+        </Placemark>
+       <Placemark>
             <name>2D194</name>
             <MultiGeometry>
             <Polygon>
