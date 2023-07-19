@@ -49741,6 +49741,19 @@
           </Polygon>
             </MultiGeometry>
         </Placemark><Placemark>
+            <name>WPA943</name>
+            <MultiGeometry>
+            <Polygon>
+              <outerBoundaryIs>
+                 <LinearRing>
+                     <coordinates>
+                     6.5548279195433,12.2801506648435 6.5548279195433,12.2757618221737 6.5593194959639,12.2757618221737 6.5593194959639,12.2801506648435 6.5548279195433,12.2801506648435
+                     </coordinates>
+                  </LinearRing>
+              </outerBoundaryIs>
+          </Polygon>
+            </MultiGeometry>
+        </Placemark><Placemark>
             <name>WPA942</name>
             <MultiGeometry>
             <Polygon>
@@ -49878,6 +49891,19 @@
                  <LinearRing>
                      <coordinates>
                      6.68957521216123,12.2889281306281 6.68957521216123,12.2845394343365 6.69406678858183,12.2845394343365 6.69406678858183,12.2889281306281 6.68957521216123,12.2889281306281
+                     </coordinates>
+                  </LinearRing>
+              </outerBoundaryIs>
+          </Polygon>
+            </MultiGeometry>
+        </Placemark><Placemark>
+            <name>WPA787</name>
+            <MultiGeometry>
+            <Polygon>
+              <outerBoundaryIs>
+                 <LinearRing>
+                     <coordinates>
+                     6.71652467068482,12.3108705132078 6.71652467068482,12.3064821832908 6.72101624710542,12.3064821832908 6.72101624710542,12.3108705132078 6.71652467068482,12.3108705132078
                      </coordinates>
                   </LinearRing>
               </outerBoundaryIs>
