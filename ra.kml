@@ -12655,19 +12655,6 @@
           </Polygon>
             </MultiGeometry>
         </Placemark><Placemark>
-            <name>21B225</name>
-            <MultiGeometry>
-            <Polygon>
-              <outerBoundaryIs>
-                 <LinearRing>
-                     <coordinates>
-                     11.4744975090843,9.00388193770041 11.4744975090843,8.99944568044577 11.4789890855049,8.99944568044577 11.4789890855049,9.00388193770041 11.4744975090843,9.00388193770041
-                     </coordinates>
-                  </LinearRing>
-              </outerBoundaryIs>
-          </Polygon>
-            </MultiGeometry>
-        </Placemark><Placemark>
             <name>22B209</name>
             <MultiGeometry>
             <Polygon>
@@ -13151,19 +13138,6 @@
                  <LinearRing>
                      <coordinates>
                      7.47414244893759,10.542136438675 7.46957388006397,10.5421215953191 7.46958891046289,10.53760088675 7.47415741272524,10.5376157235998 7.47414244893759,10.542136438675
-                     </coordinates>
-                  </LinearRing>
-              </outerBoundaryIs>
-          </Polygon>
-            </MultiGeometry>
-        </Placemark><Placemark>
-            <name>21B219</name>
-            <MultiGeometry>
-            <Polygon>
-              <outerBoundaryIs>
-                 <LinearRing>
-                     <coordinates>
-                     11.4744975090843,8.99944568044577 11.4744975090843,8.99500936879082 11.4789890855049,8.99500936879082 11.4789890855049,8.99944568044577 11.4744975090843,8.99944568044577
                      </coordinates>
                   </LinearRing>
               </outerBoundaryIs>
@@ -21991,19 +21965,6 @@
                  <LinearRing>
                      <coordinates>
                      8.49306122189243,9.88365501660876 8.48850130246713,9.8836548917339 8.48850145950695,9.87913326518257 8.4930613166566,9.87913338999919 8.49306122189243,9.88365501660876
-                     </coordinates>
-                  </LinearRing>
-              </outerBoundaryIs>
-          </Polygon>
-            </MultiGeometry>
-        </Placemark><Placemark>
-            <name>21B200</name>
-            <MultiGeometry>
-            <Polygon>
-              <outerBoundaryIs>
-                 <LinearRing>
-                     <coordinates>
-                     11.4205985920372,9.00831814052879 11.4205985920372,9.00388193770041 11.4250901684578,9.00388193770041 11.4250901684578,9.00831814052879 11.4205985920372,9.00831814052879
                      </coordinates>
                   </LinearRing>
               </outerBoundaryIs>
@@ -62502,19 +62463,6 @@
           </Polygon>
             </MultiGeometry>
         </Placemark><Placemark>
-            <name>21B048</name>
-            <MultiGeometry>
-            <Polygon>
-              <outerBoundaryIs>
-                 <LinearRing>
-                     <coordinates>
-                     11.4789890855049,8.98613658238367 11.4789890855049,8.98170010768334 11.4804428617167,8.98170010768334 11.481349299,8.98456892300004 11.4834806619255,8.98590250394124 11.4834806619255,8.98613658238367 11.4789890855049,8.98613658238367
-                     </coordinates>
-                  </LinearRing>
-              </outerBoundaryIs>
-          </Polygon>
-            </MultiGeometry>
-        </Placemark><Placemark>
             <name>21B047</name>
             <MultiGeometry>
             <Polygon>
@@ -62775,71 +62723,6 @@
           </Polygon>
             </MultiGeometry>
         </Placemark><Placemark>
-            <name>21B026</name>
-            <MultiGeometry>
-            <Polygon>
-              <outerBoundaryIs>
-                 <LinearRing>
-                     <coordinates>
-                     11.4250901684578,9.00388193770041 11.4250901684578,8.99944568044577 11.4295817448784,8.99944568044577 11.4295817448784,9.00388193770041 11.4250901684578,9.00388193770041
-                     </coordinates>
-                  </LinearRing>
-              </outerBoundaryIs>
-          </Polygon>
-            </MultiGeometry>
-        </Placemark><Placemark>
-            <name>21B025</name>
-            <MultiGeometry>
-            <Polygon>
-              <outerBoundaryIs>
-                 <LinearRing>
-                     <coordinates>
-                     11.4205985920372,9.012754288905 11.4205985920372,9.00831814052879 11.4250901684578,9.00831814052879 11.4250901684578,9.012754288905 11.4205985920372,9.012754288905
-                     </coordinates>
-                  </LinearRing>
-              </outerBoundaryIs>
-          </Polygon>
-            </MultiGeometry>
-        </Placemark><Placemark>
-            <name>21B024</name>
-            <MultiGeometry>
-            <Polygon>
-              <outerBoundaryIs>
-                 <LinearRing>
-                     <coordinates>
-                     11.4250901684578,9.04824151252579 11.4250901684578,9.04380580070012 11.4295817448784,9.04380580070012 11.4295817448784,9.04824151252579 11.4250901684578,9.04824151252579
-                     </coordinates>
-                  </LinearRing>
-              </outerBoundaryIs>
-          </Polygon>
-            </MultiGeometry>
-        </Placemark><Placemark>
-            <name>21B023</name>
-            <MultiGeometry>
-            <Polygon>
-              <outerBoundaryIs>
-                 <LinearRing>
-                     <coordinates>
-                     11.4071238627754,8.96839035790653 11.4071238627754,8.96395366617545 11.411615439196,8.96395366617545 11.411615439196,8.96839035790653 11.4071238627754,8.96839035790653
-                     </coordinates>
-                  </LinearRing>
-              </outerBoundaryIs>
-          </Polygon>
-            </MultiGeometry>
-        </Placemark><Placemark>
-            <name>21B022</name>
-            <MultiGeometry>
-            <Polygon>
-              <outerBoundaryIs>
-                 <LinearRing>
-                     <coordinates>
-                     11.4161070156166,9.012754288905 11.4161070156166,9.00831814052879 11.4205985920372,9.00831814052879 11.4205985920372,9.012754288905 11.4161070156166,9.012754288905
-                     </coordinates>
-                  </LinearRing>
-              </outerBoundaryIs>
-          </Polygon>
-            </MultiGeometry>
-        </Placemark><Placemark>
             <name>21B021</name>
             <MultiGeometry>
             <Polygon>
@@ -63022,19 +62905,6 @@
           </Polygon>
             </MultiGeometry>
         </Placemark><Placemark>
-            <name>21B007</name>
-            <MultiGeometry>
-            <Polygon>
-              <outerBoundaryIs>
-                 <LinearRing>
-                     <coordinates>
-                     11.3846659806724,8.96839035790653 11.3846659806724,8.96395366617545 11.389157557093,8.96395366617545 11.389157557093,8.96839035790653 11.3846659806724,8.96839035790653
-                     </coordinates>
-                  </LinearRing>
-              </outerBoundaryIs>
-          </Polygon>
-            </MultiGeometry>
-        </Placemark><Placemark>
             <name>21B006</name>
             <MultiGeometry>
             <Polygon>
@@ -63094,19 +62964,6 @@
                  <LinearRing>
                      <coordinates>
                      11.36669967499,8.95951692025153 11.36669967499,8.95508012016072 11.3711912514106,8.95508012016072 11.3711912514106,8.95951692025153 11.36669967499,8.95951692025153
-                     </coordinates>
-                  </LinearRing>
-              </outerBoundaryIs>
-          </Polygon>
-            </MultiGeometry>
-        </Placemark><Placemark>
-            <name>21B001</name>
-            <MultiGeometry>
-            <Polygon>
-              <outerBoundaryIs>
-                 <LinearRing>
-                     <coordinates>
-                     11.4879722383461,9.10590078045497 11.4879722383461,9.10146578156051 11.4924638147667,9.10146578156051 11.4924638147667,9.10590078045497 11.4879722383461,9.10590078045497
                      </coordinates>
                   </LinearRing>
               </outerBoundaryIs>
