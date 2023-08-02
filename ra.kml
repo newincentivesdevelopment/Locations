@@ -106,6 +106,32 @@
           </Polygon>
             </MultiGeometry>
         </Placemark><Placemark>
+            <name>WPE738</name>
+            <MultiGeometry>
+            <Polygon>
+              <outerBoundaryIs>
+                 <LinearRing>
+                     <coordinates>
+                     7.8843345400402,12.8850984026156 7.8843345400402,12.8807198893055 7.88882611646079,12.8807198893055 7.88882611646079,12.8850984026156 7.8843345400402,12.8850984026156
+                     </coordinates>
+                  </LinearRing>
+              </outerBoundaryIs>
+          </Polygon>
+            </MultiGeometry>
+        </Placemark><Placemark>
+            <name>WPE728</name>
+            <MultiGeometry>
+            <Polygon>
+              <outerBoundaryIs>
+                 <LinearRing>
+                     <coordinates>
+                     7.8798429636196,12.8763412994782 7.8798429636196,12.8719626331577 7.8843345400402,12.8719626331577 7.8843345400402,12.8763412994782 7.8798429636196,12.8763412994782
+                     </coordinates>
+                  </LinearRing>
+              </outerBoundaryIs>
+          </Polygon>
+            </MultiGeometry>
+        </Placemark><Placemark>
             <name>10C197</name>
             <MultiGeometry>
             <Polygon>
