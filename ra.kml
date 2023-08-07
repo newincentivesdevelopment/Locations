@@ -34205,6 +34205,19 @@
           </Polygon>
             </MultiGeometry>
         </Placemark><Placemark>
+            <name>WPC730</name>
+            <MultiGeometry>
+            <Polygon>
+              <outerBoundaryIs>
+                 <LinearRing>
+                     <coordinates>
+                     5.19388026410223,13.0120418947174 5.19388026410223,13.0076656109418 5.19837184052283,13.0076656109418 5.19837184052283,13.0120418947174 5.19388026410223,13.0120418947174
+                     </coordinates>
+                  </LinearRing>
+              </outerBoundaryIs>
+          </Polygon>
+            </MultiGeometry>
+        </Placemark><Placemark>
             <name>2D176</name>
             <MultiGeometry>
             <Polygon>
@@ -57347,6 +57360,19 @@
                  <LinearRing>
                      <coordinates>
                      6.71652467068482,12.3108705132078 6.71652467068482,12.3064821832908 6.72101624710542,12.3064821832908 6.72101624710542,12.3108705132078 6.71652467068482,12.3108705132078
+                     </coordinates>
+                  </LinearRing>
+              </outerBoundaryIs>
+          </Polygon>
+            </MultiGeometry>
+        </Placemark><Placemark>
+            <name>WPA786</name>
+            <MultiGeometry>
+            <Polygon>
+              <outerBoundaryIs>
+                 <LinearRing>
+                     <coordinates>
+                     6.59974368374928,12.4161683703174 6.59974368374928,12.4117818075255 6.60423526016988,12.4117818075255 6.60423526016988,12.4161683703174 6.59974368374928,12.4161683703174
                      </coordinates>
                   </LinearRing>
               </outerBoundaryIs>
