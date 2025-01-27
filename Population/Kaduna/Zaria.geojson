@@ -1,0 +1,32 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+     {"type":"Feature","properties":{"population":20.570571899414062},"geometry":{"type":"Point","coordinates":[7.73416666661551,11.048333333487]}}
+     ,
+     {"type":"Feature","properties":{"population":20.570571899414062},"geometry":{"type":"Point","coordinates":[7.73361111105995,11.0486111112648]}}
+     ,
+     {"type":"Feature","properties":{"population":20.570571899414062},"geometry":{"type":"Point","coordinates":[7.74416666661552,11.0777777779314]}}
+     ,
+     {"type":"Feature","properties":{"population":20.570571899414062},"geometry":{"type":"Point","coordinates":[7.70027777772659,10.9983333334869]}}
+     ,
+     {"type":"Feature","properties":{"population":20.570571899414062},"geometry":{"type":"Point","coordinates":[7.69749999994881,11.070833333487]}}
+     ,
+     {"type":"Feature","properties":{"population":20.570571899414062},"geometry":{"type":"Point","coordinates":[7.72638888883773,11.0516666668203]}}
+     ,
+     {"type":"Feature","properties":{"population":20.570571899414062},"geometry":{"type":"Point","coordinates":[7.72638888883773,11.0852777779314]}}
+     ,
+     {"type":"Feature","properties":{"population":20.570571899414062},"geometry":{"type":"Point","coordinates":[7.72638888883773,11.0850000001537]}}
+     ,
+     {"type":"Feature","properties":{"population":20.570571899414062},"geometry":{"type":"Point","coordinates":[7.74444444439329,11.0780555557092]}}
+     ,
+     {"type":"Feature","properties":{"population":20.570571899414062},"geometry":{"type":"Point","coordinates":[7.76249999994886,11.0430555557092]}}
+     ,
+     {"type":"Feature","properties":{"population":20.570571899414062},"geometry":{"type":"Point","coordinates":[7.7405555555044,11.0830555557092]}}
+     ,
+     {"type":"Feature","properties":{"population":20.570571899414062},"geometry":{"type":"Point","coordinates":[7.68222222217102,11.0477777779314]}}
+     ,
+     {"type":"Feature","properties":{"population":20.570571899414062},"geometry":{"type":"Point","coordinates":[7.7847222221711,11.0938888890426]}}
+     ,
+     {"type":"Feature","properties":{"population":20.570571899414062},"geometry":{"type":"Point","coordinates":[7.71666666661549,11.0622222223759]}}
+  ]
+}

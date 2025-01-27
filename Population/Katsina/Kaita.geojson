@@ -1,0 +1,10 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+     {"type":"Feature","properties":{"population":9.190744400024414},"geometry":{"type":"Point","coordinates":[7.66888888883768,13.2508333334887]}}
+     ,
+     {"type":"Feature","properties":{"population":9.190744400024414},"geometry":{"type":"Point","coordinates":[7.90916666661565,13.1936111112665]}}
+     ,
+     {"type":"Feature","properties":{"population":9.190744400024414},"geometry":{"type":"Point","coordinates":[7.7708333332822,13.2063888890443]}}
+  ]
+}

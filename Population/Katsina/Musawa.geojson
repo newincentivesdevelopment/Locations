@@ -1,0 +1,18 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+     {"type":"Feature","properties":{"population":8.733172416687012},"geometry":{"type":"Point","coordinates":[7.52138888883756,12.0977777779323]}}
+     ,
+     {"type":"Feature","properties":{"population":13.222752571105957},"geometry":{"type":"Point","coordinates":[7.53638888883757,11.99555555571]}}
+     ,
+     {"type":"Feature","properties":{"population":13.222752571105957},"geometry":{"type":"Point","coordinates":[7.53611111105979,11.9952777779322]}}
+     ,
+     {"type":"Feature","properties":{"population":8.733172416687012},"geometry":{"type":"Point","coordinates":[7.84972222217116,12.2241666668213]}}
+     ,
+     {"type":"Feature","properties":{"population":13.222752571105957},"geometry":{"type":"Point","coordinates":[7.53611111105979,11.99555555571]}}
+     ,
+     {"type":"Feature","properties":{"population":8.733172416687012},"geometry":{"type":"Point","coordinates":[7.84944444439338,12.2236111112657]}}
+     ,
+     {"type":"Feature","properties":{"population":8.733172416687012},"geometry":{"type":"Point","coordinates":[7.82972222217114,12.1655555557101]}}
+  ]
+}

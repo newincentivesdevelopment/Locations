@@ -1,0 +1,56 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+     {"type":"Feature","properties":{"population":9.187784194946289},"geometry":{"type":"Point","coordinates":[5.7366666666139,13.2977777779332]}}
+     ,
+     {"type":"Feature","properties":{"population":9.187784194946289},"geometry":{"type":"Point","coordinates":[5.68166666661386,13.2872222223777]}}
+     ,
+     {"type":"Feature","properties":{"population":9.187784194946289},"geometry":{"type":"Point","coordinates":[5.66305555550273,13.2713888890443]}}
+     ,
+     {"type":"Feature","properties":{"population":9.187784194946289},"geometry":{"type":"Point","coordinates":[5.48722222216926,13.3613888890444]}}
+     ,
+     {"type":"Feature","properties":{"population":9.187784194946289},"geometry":{"type":"Point","coordinates":[5.49972222216927,13.3272222223777]}}
+     ,
+     {"type":"Feature","properties":{"population":9.187784194946289},"geometry":{"type":"Point","coordinates":[5.8099999999473,13.2936111112666]}}
+     ,
+     {"type":"Feature","properties":{"population":9.187784194946289},"geometry":{"type":"Point","coordinates":[5.84111111105843,13.2883333334888]}}
+     ,
+     {"type":"Feature","properties":{"population":9.187784194946289},"geometry":{"type":"Point","coordinates":[5.73861111105835,13.2611111112665]}}
+     ,
+     {"type":"Feature","properties":{"population":9.187784194946289},"geometry":{"type":"Point","coordinates":[5.76833333328059,13.2813888890443]}}
+     ,
+     {"type":"Feature","properties":{"population":9.187784194946289},"geometry":{"type":"Point","coordinates":[5.74694444439169,13.238055555711]}}
+     ,
+     {"type":"Feature","properties":{"population":9.187784194946289},"geometry":{"type":"Point","coordinates":[5.80972222216952,13.2936111112666]}}
+     ,
+     {"type":"Feature","properties":{"population":9.187784194946289},"geometry":{"type":"Point","coordinates":[5.84138888883621,13.288055555711]}}
+     ,
+     {"type":"Feature","properties":{"population":9.187784194946289},"geometry":{"type":"Point","coordinates":[5.75444444439169,13.2711111112665]}}
+     ,
+     {"type":"Feature","properties":{"population":9.187784194946289},"geometry":{"type":"Point","coordinates":[5.72444444439167,13.2372222223776]}}
+     ,
+     {"type":"Feature","properties":{"population":9.187784194946289},"geometry":{"type":"Point","coordinates":[5.82472222216953,13.2641666668221]}}
+     ,
+     {"type":"Feature","properties":{"population":9.187784194946289},"geometry":{"type":"Point","coordinates":[5.83055555550286,13.295555555711]}}
+     ,
+     {"type":"Feature","properties":{"population":9.187784194946289},"geometry":{"type":"Point","coordinates":[5.77027777772504,13.2747222223777]}}
+     ,
+     {"type":"Feature","properties":{"population":9.187784194946289},"geometry":{"type":"Point","coordinates":[5.82861111105842,13.2933333334888]}}
+     ,
+     {"type":"Feature","properties":{"population":9.187784194946289},"geometry":{"type":"Point","coordinates":[5.83472222216954,13.2938888890443]}}
+     ,
+     {"type":"Feature","properties":{"population":9.187784194946289},"geometry":{"type":"Point","coordinates":[5.6597222221694,13.2775000001554]}}
+     ,
+     {"type":"Feature","properties":{"population":9.187784194946289},"geometry":{"type":"Point","coordinates":[5.72444444439167,13.2711111112665]}}
+     ,
+     {"type":"Feature","properties":{"population":9.187784194946289},"geometry":{"type":"Point","coordinates":[5.83583333328065,13.2908333334888]}}
+     ,
+     {"type":"Feature","properties":{"population":9.187784194946289},"geometry":{"type":"Point","coordinates":[5.73305555550279,13.2919444445999]}}
+     ,
+     {"type":"Feature","properties":{"population":9.187784194946289},"geometry":{"type":"Point","coordinates":[5.67111111105829,13.2852777779332]}}
+     ,
+     {"type":"Feature","properties":{"population":9.187784194946289},"geometry":{"type":"Point","coordinates":[5.76722222216948,13.2786111112665]}}
+     ,
+     {"type":"Feature","properties":{"population":9.187784194946289},"geometry":{"type":"Point","coordinates":[5.7405555555028,13.2936111112666]}}
+  ]
+}
